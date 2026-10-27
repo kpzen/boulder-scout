@@ -1,0 +1,41 @@
+[project]
+name = "boulder-scout"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "laspy[lazrs]>=2.7.0",
+    "numpy>=2.5.4",
+    "pillow>=13.0.0",
+    "pyarrow>=26.0.0",
+    "pyproj>=3.8.0",
+    "scipy>=1.18.1",
+    "truststore>=0.10.5",
+]
+
+[dependency-groups]
+dev = [
+    "mypy>=2.4.0",
+    "pytest>=9.1.1",
+    "ruff>=0.17.0",
+]
+
+[tool.uv]
+package = false
+
+[tool.ruff]
+line-length = 100
+extend-exclude = ["web"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP", "NPY"]
+
+[tool.mypy]
+strict = true
+files = ["pipeline", "scoring", "tests"]
+
+[[tool.mypy.overrides]]
+module = ["laspy", "scipy.*", "pyarrow.*"]  # ship no type hints
+ignore_missing_imports = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

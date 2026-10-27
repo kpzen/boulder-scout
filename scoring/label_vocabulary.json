@@ -1,0 +1,12 @@
+{
+  "classes": ["boulder", "rock_small", "vegetation", "manmade", "terrain_other", "unsure"],
+  "tags": {
+    "boulder": { "multi": false, "tags": ["high", "medium", "low"] },
+    "vegetation": {
+      "multi": true,
+      "tags": ["jagged top", "jagged perimeter", "too tall for its base", "holes", "points under it", "no clear ground edge"]
+    }
+  },
+  "negatives": ["vegetation", "terrain_other"],
+  "photo_negatives": ["vegetation", "terrain_other", "manmade"]
+}

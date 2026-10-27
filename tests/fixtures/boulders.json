@@ -1,0 +1,470 @@
+{
+  "_about": "Known boulders for real-data fixtures. e/n in SWEREF 99 TM (EPSG:3006), as given by the author; lat/lon are the author's WGS84 (DMS) values in decimal degrees. size_m and height_m are the author's field estimates; canopy is a [low, high] range of open < sparse < medium < dense. 'crops' has one entry per scan covering the boulder; flight_date is the median GPS time of the crop, pulses_per_m2 is first returns / crop area. 'negatives' are 100 x 100 m squares with no boulders to the author's knowledge, with the same fields minus size_m and height_m. 'nearby_rocks' are other rocks in a boulder's crop: proposer candidates (centroid e/n) that the author confirmed from map links, with the author's comments.",
+  "crop_half_m": 50,
+  "boulders": [
+    {
+      "id": "b01_reference",
+      "e": 497122,
+      "n": 6925108,
+      "lat": 62.457139,
+      "lon": 14.944222,
+      "size_m": [
+        10,
+        10
+      ],
+      "height_m": 8,
+      "canopy": [
+        "open",
+        "sparse"
+      ],
+      "location_uncertain": false,
+      "description": "Original test boulder, about 10x10 meters, 8 meters high, quite open forest (either completely open or sparse, depending on when the scan was made).",
+      "crops": [
+        {
+          "file": "b01_reference__20e029-69250_4950_25.laz",
+          "source_file": "y20e029-69250_4950_25.copc.laz",
+          "flight_date": "2020-06-14",
+          "points": 44065,
+          "pulses_per_m2": 3.23
+        }
+      ],
+      "nearby_rocks": [
+        {
+          "e": 497116.1,
+          "n": 6925139.7,
+          "description": "Rock, on the smaller side for bouldering."
+        },
+        {
+          "e": 497100.2,
+          "n": 6925151.7,
+          "description": "Rock, even smaller."
+        }
+      ]
+    },
+    {
+      "id": "b02",
+      "e": 496878,
+      "n": 6924643,
+      "lat": 62.452944,
+      "lon": 14.9395,
+      "size_m": [
+        7,
+        4
+      ],
+      "height_m": 6,
+      "canopy": [
+        "sparse",
+        "sparse"
+      ],
+      "location_uncertain": false,
+      "description": "About 7x4 meters, 6 meters high, sparse forest, has a neighbour 25 meters east.",
+      "crops": [
+        {
+          "file": "b02__20e018-69225_4950_25.laz",
+          "source_file": "y20e018-69225_4950_25.copc.laz",
+          "flight_date": "2020-06-21",
+          "points": 54611,
+          "pulses_per_m2": 3.52
+        }
+      ],
+      "nearby_rocks": [
+        {
+          "e": 496831.4,
+          "n": 6924624.7,
+          "description": "Rock, on the small side."
+        },
+        {
+          "e": 496907.9,
+          "n": 6924631.5,
+          "description": "Rock, large and climbable."
+        },
+        {
+          "e": 496892.8,
+          "n": 6924655.3,
+          "description": "Rock, large and climbable."
+        },
+        {
+          "e": 496895.1,
+          "n": 6924660.8,
+          "description": "Rock, large and climbable."
+        }
+      ]
+    },
+    {
+      "id": "b03",
+      "e": 497462,
+      "n": 6924260,
+      "lat": 62.449528,
+      "lon": 14.950833,
+      "size_m": [
+        5,
+        5
+      ],
+      "height_m": 5,
+      "canopy": [
+        "sparse",
+        "sparse"
+      ],
+      "location_uncertain": false,
+      "description": "About 5x5 meters, 5 meters high, sparse forest, has a neighbour 5 meters south west.",
+      "crops": [
+        {
+          "file": "b03__20e018-692_49.laz",
+          "source_file": "m20e018-692_49.copc.laz",
+          "flight_date": "2020-06-21",
+          "points": 84331,
+          "pulses_per_m2": 5.4
+        }
+      ],
+      "nearby_rocks": [
+        {
+          "e": 497455.1,
+          "n": 6924252.3,
+          "description": "Rock, near neighbour (~5 m) to the boulder, large and climbable."
+        },
+        {
+          "e": 497428.0,
+          "n": 6924274.2,
+          "description": "Rock, medium size."
+        }
+      ]
+    },
+    {
+      "id": "b04_valley_pair",
+      "e": 497598,
+      "n": 6923977,
+      "lat": 62.446972,
+      "lon": 14.953472,
+      "size_m": [
+        7,
+        7
+      ],
+      "height_m": 6.5,
+      "canopy": [
+        "medium",
+        "dense"
+      ],
+      "location_uncertain": false,
+      "description": "Tricky boulder(s), has a neighbour right against it to the south, each about 7x7 meters, 6-7 meters high, in a local valley, medium dense to dense forest.",
+      "crops": [
+        {
+          "file": "b04_valley_pair__20e018-69225_4975_25.laz",
+          "source_file": "y20e018-69225_4975_25.copc.laz",
+          "flight_date": "2020-06-21",
+          "points": 46987,
+          "pulses_per_m2": 3.02
+        }
+      ]
+    },
+    {
+      "id": "b05",
+      "e": 498483,
+      "n": 6925143,
+      "lat": 62.457444,
+      "lon": 14.970611,
+      "size_m": [
+        10,
+        7
+      ],
+      "height_m": 6,
+      "canopy": [
+        "sparse",
+        "sparse"
+      ],
+      "location_uncertain": false,
+      "description": "About 10x7 meters, 6 meters high, sparse forest.",
+      "crops": [
+        {
+          "file": "b05__20e029-69250_4975_25.laz",
+          "source_file": "y20e029-69250_4975_25.copc.laz",
+          "flight_date": "2020-06-14",
+          "points": 47961,
+          "pulses_per_m2": 3.15
+        }
+      ],
+      "nearby_rocks": [
+        {
+          "e": 498530.1,
+          "n": 6925141.1,
+          "description": "Rock, small."
+        }
+      ]
+    },
+    {
+      "id": "b06_big_broken",
+      "e": 497497,
+      "n": 6921685,
+      "lat": 62.426417,
+      "lon": 14.951528,
+      "size_m": [
+        20,
+        20
+      ],
+      "height_m": 5.5,
+      "canopy": [
+        "sparse",
+        "medium"
+      ],
+      "location_uncertain": false,
+      "description": "Big boulder, about 20x20 meters but slightly broken up, 5-6 meters high, sparse to medium dense forest around it.",
+      "crops": [
+        {
+          "file": "b06_big_broken__20e018-692_49.laz",
+          "source_file": "m20e018-692_49.copc.laz",
+          "flight_date": "2020-06-21",
+          "points": 46316,
+          "pulses_per_m2": 3.01
+        }
+      ]
+    },
+    {
+      "id": "b07",
+      "e": 497128,
+      "n": 6918723,
+      "lat": 62.399833,
+      "lon": 14.944444,
+      "size_m": [
+        8,
+        10
+      ],
+      "height_m": 8,
+      "canopy": [
+        "sparse",
+        "sparse"
+      ],
+      "location_uncertain": false,
+      "description": "About 8x10 meters, 8 meters high, sparse forest, has a neighbour 10 meters east.",
+      "crops": [
+        {
+          "file": "b07__20e018-69175_4950_25.laz",
+          "source_file": "y20e018-69175_4950_25.copc.laz",
+          "flight_date": "2020-06-21",
+          "points": 23537,
+          "pulses_per_m2": 1.67
+        }
+      ],
+      "nearby_rocks": [
+        {
+          "e": 497154.2,
+          "n": 6918697.4,
+          "description": "Rock, quite large but not interesting for climbing (sloped sides)."
+        },
+        {
+          "e": 497111.2,
+          "n": 6918724.0,
+          "description": "Rock, large near neighbour (~10 m) to the boulder, climbable."
+        }
+      ]
+    },
+    {
+      "id": "b08",
+      "e": 502924,
+      "n": 6918652,
+      "lat": 62.399194,
+      "lon": 15.056583,
+      "size_m": [
+        12,
+        7
+      ],
+      "height_m": 6,
+      "canopy": [
+        "sparse",
+        "sparse"
+      ],
+      "location_uncertain": false,
+      "description": "About 12x7 meters, 6 meters high, sparse forest.",
+      "crops": [
+        {
+          "file": "b08__20e019-69175_5025_25.laz",
+          "source_file": "y20e019-69175_5025_25.copc.laz",
+          "flight_date": "2020-06-13",
+          "points": 23048,
+          "pulses_per_m2": 1.59
+        }
+      ],
+      "nearby_rocks": [
+        {
+          "e": 502892.3,
+          "n": 6918648.7,
+          "description": "Rock, ~20 m from the boulder, large and climbable."
+        }
+      ]
+    },
+    {
+      "id": "b09_dense_slope",
+      "e": 501678,
+      "n": 6918817,
+      "lat": 62.400667,
+      "lon": 15.032472,
+      "size_m": [
+        9,
+        5
+      ],
+      "height_m": 4,
+      "canopy": [
+        "dense",
+        "dense"
+      ],
+      "location_uncertain": true,
+      "description": "Most difficult one, in a slope in a dense forest with total canopy cover, about 9x5 meters, 4 meters high, exact location uncertain but close to the given point. Coordinates updated to the author's phone photo position (replacing the earlier estimate 14 m away); phone GPS under dense canopy, so a few metres off is possible.",
+      "crops": [
+        {
+          "file": "b09_dense_slope__20e019-69175_5000_25.laz",
+          "source_file": "y20e019-69175_5000_25.copc.laz",
+          "flight_date": "2020-06-13",
+          "points": 30670,
+          "pulses_per_m2": 1.73
+        }
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "id": "n01_medium_flat",
+      "e": 494012,
+      "n": 6930191,
+      "lat": 62.502722,
+      "lon": 14.88375,
+      "canopy": [
+        "medium",
+        "medium"
+      ],
+      "description": "Medium dense forest, fairly flat land.",
+      "crops": [
+        {
+          "file": "n01_medium_flat__20e029-69300_4925_25.laz",
+          "source_file": "y20e029-69300_4925_25.copc.laz",
+          "flight_date": "2020-06-14",
+          "points": 26154,
+          "pulses_per_m2": 1.58
+        }
+      ]
+    },
+    {
+      "id": "n02_bedrock_ridges",
+      "e": 493978,
+      "n": 6928548,
+      "lat": 62.487972,
+      "lon": 14.883139,
+      "canopy": [
+        "sparse",
+        "sparse"
+      ],
+      "description": "Sparse forest, jagged ground with exposed bedrock and some glacial ridges.",
+      "crops": [
+        {
+          "file": "n02_bedrock_ridges__20e029-69275_4925_25.laz",
+          "source_file": "y20e029-69275_4925_25.copc.laz",
+          "flight_date": "2020-06-14",
+          "points": 22453,
+          "pulses_per_m2": 1.6
+        }
+      ]
+    },
+    {
+      "id": "n03_hills",
+      "e": 494435,
+      "n": 6928774,
+      "lat": 62.49,
+      "lon": 14.892,
+      "canopy": [
+        "sparse",
+        "sparse"
+      ],
+      "description": "Sparse forest, some hill-like features.",
+      "crops": [
+        {
+          "file": "n03_hills__20e029-69275_4925_25.laz",
+          "source_file": "y20e029-69275_4925_25.copc.laz",
+          "flight_date": "2020-06-14",
+          "points": 60791,
+          "pulses_per_m2": 3.74
+        }
+      ]
+    },
+    {
+      "id": "n04_small_rocks",
+      "e": 498756,
+      "n": 6926312,
+      "lat": 62.467944,
+      "lon": 14.975861,
+      "canopy": [
+        "open",
+        "dense"
+      ],
+      "description": "Flat with some smaller rocks (below 5 m wide); forest cover unclear, depends on when the scan was made.",
+      "crops": [
+        {
+          "file": "n04_small_rocks__20e029-69250_4975_25.laz",
+          "source_file": "y20e029-69250_4975_25.copc.laz",
+          "flight_date": "2020-06-14",
+          "points": 23568,
+          "pulses_per_m2": 1.45
+        }
+      ]
+    },
+    {
+      "id": "n05_dense_flat",
+      "e": 499421,
+      "n": 6923749,
+      "lat": 62.444944,
+      "lon": 14.988778,
+      "canopy": [
+        "dense",
+        "dense"
+      ],
+      "description": "Dense forest, flat ground, not very rocky.",
+      "crops": [
+        {
+          "file": "n05_dense_flat__20e018-69225_4975_25.laz",
+          "source_file": "y20e018-69225_4975_25.copc.laz",
+          "flight_date": "2020-06-21",
+          "points": 70031,
+          "pulses_per_m2": 3.77
+        }
+      ]
+    },
+    {
+      "id": "n06_dense_slope",
+      "e": 502021,
+      "n": 6919062,
+      "lat": 62.402861,
+      "lon": 15.039111,
+      "canopy": [
+        "dense",
+        "dense"
+      ],
+      "description": "Dense forest on a slope, some smaller rocks but not many.",
+      "crops": [
+        {
+          "file": "n06_dense_slope__20e019-69175_5000_25.laz",
+          "source_file": "y20e019-69175_5000_25.copc.laz",
+          "flight_date": "2020-06-13",
+          "points": 31343,
+          "pulses_per_m2": 1.71
+        }
+      ]
+    },
+    {
+      "id": "n07_steep_ridge",
+      "e": 496887,
+      "n": 6914616,
+      "lat": 62.362944,
+      "lon": 14.939861,
+      "canopy": [
+        "medium",
+        "medium"
+      ],
+      "description": "Medium dense forest, centred on a ridge formation that is quite steep (but not a cliff).",
+      "crops": [
+        {
+          "file": "n07_steep_ridge__20e018-69125_4950_25.laz",
+          "source_file": "y20e018-69125_4950_25.copc.laz",
+          "flight_date": "2020-06-21",
+          "points": 29319,
+          "pulses_per_m2": 1.75
+        }
+      ]
+    }
+  ]
+}

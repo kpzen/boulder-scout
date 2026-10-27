@@ -1,0 +1,5668 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "id": "20e018-69150_4900_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.806608901113643,
+    62.36627880528612,
+    14.855064821474818,
+    62.3887776236967
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.806753381454632,
+       62.36627880528612
+      ],
+      [
+       14.855064821474818,
+       62.366337476449274
+      ],
+      [
+       14.85495646069869,
+       62.3887776236967
+      ],
+      [
+       14.806608901113643,
+       62.388718896824294
+      ],
+      [
+       14.806753381454632,
+       62.36627880528612
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:35:36Z",
+    "datetime": "2020-07-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 17316996,
+    "proj:bbox": [
+     490000.0,
+     6915000.0,
+     492500.0,
+     6917500.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.6202868943,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-08-10T00:00:00Z",
+    "data_modified": "2021-02-24T00:00:00Z",
+    "start_datetime": "2020-06-21T00:00:00Z",
+    "skanningsomrade": "20E018"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e018/y20e018-69150_4900_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e018-69150_4900_25.copc.laz",
+     "file:size": 97111317,
+     "proj:bbox": [
+      490000.0,
+      6915000.0,
+      492500.0,
+      6917500.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "12206409c80aec794e4ebe62271144cde3cf0a8d3ae18344cb3543492c9bb4f486f7"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69150_4900_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e018-69150_4900_25_info.json",
+     "file:size": 23170,
+     "file:checksum": "1220cc448fb4569347d1b23670d0a4f8ac68f5990289da1d46d19cd4f4a109262927"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69150_4900_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e018-69150_4900_25_thumbnail.png",
+     "file:size": 27960,
+     "file:checksum": "12208fa18c10e8ff4ec5954b8b9ba750e2d3d37f86faf268a24ada9c67df6a8903aa"
+    }
+   }
+  },
+  {
+   "id": "20e018-69150_4925_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.85495646069869,
+    62.366337476449274,
+    14.903376445451224,
+    62.38881957156484
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.855064821474818,
+       62.366337476449274
+      ],
+      [
+       14.903376445451224,
+       62.36637938452485
+      ],
+      [
+       14.903304204685996,
+       62.38881957156484
+      ],
+      [
+       14.85495646069869,
+       62.3887776236967
+      ],
+      [
+       14.855064821474818,
+       62.366337476449274
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:35:37Z",
+    "datetime": "2020-07-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 19147468,
+    "proj:bbox": [
+     492500.0,
+     6915000.0,
+     495000.0,
+     6917500.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.5886209366,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-08-10T00:00:00Z",
+    "data_modified": "2021-02-24T00:00:00Z",
+    "start_datetime": "2020-06-21T00:00:00Z",
+    "skanningsomrade": "20E018"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e018/y20e018-69150_4925_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e018-69150_4925_25.copc.laz",
+     "file:size": 104472522,
+     "proj:bbox": [
+      492500.0,
+      6915000.0,
+      495000.0,
+      6917500.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "12206a781e567adc7ab6e4dbe6465fbd7ae6349342de5b1996886cc255173dce2f80"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69150_4925_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e018-69150_4925_25_info.json",
+     "file:size": 23169,
+     "file:checksum": "1220e76cf3a42df5d7013a7591dba3e0f84cffa1a1de443cca2ba28c9ecbdd727ea6"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69150_4925_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e018-69150_4925_25_thumbnail.png",
+     "file:size": 28358,
+     "file:checksum": "1220582d9c124104b09acb8efb1010634ad69a7331f7d01a18a2a579c15d09015d61"
+    }
+   }
+  },
+  {
+   "id": "20e018-69150_4950_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.903304204685996,
+    62.36637938452485,
+    14.951688192065912,
+    62.388844740326576
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.903376445451224,
+       62.36637938452485
+      ],
+      [
+       14.951688192065912,
+       62.36640452941098
+      ],
+      [
+       14.951652071608956,
+       62.388844740326576
+      ],
+      [
+       14.903304204685996,
+       62.38881957156484
+      ],
+      [
+       14.903376445451224,
+       62.36637938452485
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:35:37Z",
+    "datetime": "2020-07-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 19154853,
+    "proj:bbox": [
+     495000.0,
+     6915000.0,
+     497500.0,
+     6917500.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.58190488,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-08-10T00:00:00Z",
+    "data_modified": "2021-02-24T00:00:00Z",
+    "start_datetime": "2020-06-21T00:00:00Z",
+    "skanningsomrade": "20E018"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e018/y20e018-69150_4950_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e018-69150_4950_25.copc.laz",
+     "file:size": 103773793,
+     "proj:bbox": [
+      495000.0,
+      6915000.0,
+      497500.0,
+      6917500.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "1220ee33533c1913c72f5da1ff3285b786e2471c565aba80b96f6140256755299c7d"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69150_4950_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e018-69150_4950_25_info.json",
+     "file:size": 24709,
+     "file:checksum": "122065a9a45bd052edc716ab75c966bada1dad07f2ccc46064f71354d84c51f61db7"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69150_4950_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e018-69150_4950_25_thumbnail.png",
+     "file:size": 25347,
+     "file:checksum": "1220a40b3bfd70accd25b65ca3e28653ab4769524d4be9bd85c3636dea1e7725f63d"
+    }
+   }
+  },
+  {
+   "id": "20e018-69150_4975_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.951652071608956,
+    62.36640452941098,
+    14.999999999999982,
+    62.38885312992064
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.951688192065912,
+       62.36640452941098
+      ],
+      [
+       14.999999999999982,
+       62.36641291104647
+      ],
+      [
+       14.999999999999982,
+       62.38885312992064
+      ],
+      [
+       14.951652071608956,
+       62.388844740326576
+      ],
+      [
+       14.951688192065912,
+       62.36640452941098
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:35:37Z",
+    "datetime": "2020-07-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 14441631,
+    "proj:bbox": [
+     497500.0,
+     6915000.0,
+     500000.0,
+     6917500.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.7545442756,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-08-10T00:00:00Z",
+    "data_modified": "2021-02-24T00:00:00Z",
+    "start_datetime": "2020-06-21T00:00:00Z",
+    "skanningsomrade": "20E018"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e018/y20e018-69150_4975_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e018-69150_4975_25.copc.laz",
+     "file:size": 71995218,
+     "proj:bbox": [
+      497500.0,
+      6915000.0,
+      500000.0,
+      6917500.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "1220d40818958eb34dced4721bb786f50d7cad5029e11f3b402276742ef2871612b5"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69150_4975_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e018-69150_4975_25_info.json",
+     "file:size": 23164,
+     "file:checksum": "1220ead97425d3ded2623a498de0b5443f543536723190a7dacc8bb23ae706e20883"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69150_4975_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e018-69150_4975_25_thumbnail.png",
+     "file:size": 33826,
+     "file:checksum": "1220a87f9f4cb4d8e7c1a7099beb1fd78a984388f80c780be224e98c053a204f4fc2"
+    }
+   }
+  },
+  {
+   "id": "20e018-69175_4875_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.758080680753851,
+    62.38864339109065,
+    14.806608901113643,
+    62.41115891530007
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.75826158739603,
+       62.38864339109065
+      ],
+      [
+       14.806608901113643,
+       62.388718896824294
+      ],
+      [
+       14.806464174904905,
+       62.41115891530007
+      ],
+      [
+       14.758080680753851,
+       62.41108333783364
+      ],
+      [
+       14.75826158739603,
+       62.38864339109065
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:35:37Z",
+    "datetime": "2020-07-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 17088132,
+    "proj:bbox": [
+     487500.0,
+     6917500.0,
+     490000.0,
+     6920000.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.6187108691,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-08-10T00:00:00Z",
+    "data_modified": "2021-02-24T00:00:00Z",
+    "start_datetime": "2020-06-21T00:00:00Z",
+    "skanningsomrade": "20E018"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e018/y20e018-69175_4875_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e018-69175_4875_25.copc.laz",
+     "file:size": 90491297,
+     "proj:bbox": [
+      487500.0,
+      6917500.0,
+      490000.0,
+      6920000.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "1220a25f5ad1180fa1be3140e173c2c734a38c0fc15e474899694f4bf95714f34319"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69175_4875_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e018-69175_4875_25_info.json",
+     "file:size": 23572,
+     "file:checksum": "1220967e5f1289ef06e1dcab3388b4c99b8f510e97ced8bed0ee6066bfc3a3665f6d"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69175_4875_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e018-69175_4875_25_thumbnail.png",
+     "file:size": 28007,
+     "file:checksum": "122041a81f74880ab1b742cdd695864c2485d8586b2feb33ef2ef76dd695b76cd734"
+    }
+   }
+  },
+  {
+   "id": "20e018-69175_4900_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.806464174904905,
+    62.388718896824294,
+    14.85495646069869,
+    62.41121769796508
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.806608901113643,
+       62.388718896824294
+      ],
+      [
+       14.85495646069869,
+       62.3887776236967
+      ],
+      [
+       14.854847915520049,
+       62.41121769796508
+      ],
+      [
+       14.806464174904905,
+       62.41115891530007
+      ],
+      [
+       14.806608901113643,
+       62.388718896824294
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:35:37Z",
+    "datetime": "2020-07-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 17392866,
+    "proj:bbox": [
+     490000.0,
+     6917500.0,
+     492500.0,
+     6920000.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.6188627606,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-08-10T00:00:00Z",
+    "data_modified": "2021-02-24T00:00:00Z",
+    "start_datetime": "2020-06-21T00:00:00Z",
+    "skanningsomrade": "20E018"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e018/y20e018-69175_4900_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e018-69175_4900_25.copc.laz",
+     "file:size": 97440794,
+     "proj:bbox": [
+      490000.0,
+      6917500.0,
+      492500.0,
+      6920000.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "1220902cc145760e8d6a3a997597f80753107f8f469898ee4b498d05d93a750fee53"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69175_4900_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e018-69175_4900_25_info.json",
+     "file:size": 23991,
+     "file:checksum": "122023e2379a9b0152bdbc7c0acfe70cb22953ff6f96240a0f79de9456a90c2a4e14"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69175_4900_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e018-69175_4900_25_thumbnail.png",
+     "file:size": 34660,
+     "file:checksum": "12203a118fd1f96e7dd0a4f0a124f0ccffdf019f483e4e4e5326d253f2be9cd21111"
+    }
+   }
+  },
+  {
+   "id": "20e018-69175_4925_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.854847915520049,
+    62.3887776236967,
+    14.903304204685996,
+    62.4112596856853
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.85495646069869,
+       62.3887776236967
+      ],
+      [
+       14.903304204685996,
+       62.38881957156484
+      ],
+      [
+       14.903231840984954,
+       62.4112596856853
+      ],
+      [
+       14.854847915520049,
+       62.41121769796508
+      ],
+      [
+       14.85495646069869,
+       62.3887776236967
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:35:37Z",
+    "datetime": "2020-07-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 18267654,
+    "proj:bbox": [
+     492500.0,
+     6917500.0,
+     495000.0,
+     6920000.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.6175282079,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-08-10T00:00:00Z",
+    "data_modified": "2021-02-24T00:00:00Z",
+    "start_datetime": "2020-06-21T00:00:00Z",
+    "skanningsomrade": "20E018"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e018/y20e018-69175_4925_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e018-69175_4925_25.copc.laz",
+     "file:size": 98698713,
+     "proj:bbox": [
+      492500.0,
+      6917500.0,
+      495000.0,
+      6920000.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "12202e156041a0f15bea1fd547624f4cdb8a0b688989d8574b2545894378fa9c8097"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69175_4925_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e018-69175_4925_25_info.json",
+     "file:size": 24347,
+     "file:checksum": "1220e12bb3a56dbc487a84deb91fa9a0642f2ff283b9877aebcd08f361e7366270a7"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69175_4925_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e018-69175_4925_25_thumbnail.png",
+     "file:size": 30401,
+     "file:checksum": "12203a7df823243245af3a5ad911f9171ba3de3e573e00f7cc458decfc2ad54ce215"
+    }
+   }
+  },
+  {
+   "id": "20e018-69175_4950_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.903231840984954,
+    62.38881957156484,
+    14.951652071608956,
+    62.41128487835838
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.903304204685996,
+       62.38881957156484
+      ],
+      [
+       14.951652071608956,
+       62.388844740326576
+      ],
+      [
+       14.951615889683849,
+       62.41128487835838
+      ],
+      [
+       14.903231840984954,
+       62.4112596856853
+      ],
+      [
+       14.903304204685996,
+       62.38881957156484
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:35:37Z",
+    "datetime": "2020-07-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 19401733,
+    "proj:bbox": [
+     495000.0,
+     6917500.0,
+     497500.0,
+     6920000.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.5773848958,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-08-10T00:00:00Z",
+    "data_modified": "2021-02-24T00:00:00Z",
+    "start_datetime": "2020-06-21T00:00:00Z",
+    "skanningsomrade": "20E018"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e018/y20e018-69175_4950_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e018-69175_4950_25.copc.laz",
+     "file:size": 105224210,
+     "proj:bbox": [
+      495000.0,
+      6917500.0,
+      497500.0,
+      6920000.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "1220fda4c6e789a1567b98e47277c4cd9c17f65300d666d520785f7ba0b6a3607d68"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69175_4950_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e018-69175_4950_25_info.json",
+     "file:size": 25150,
+     "file:checksum": "1220e482600d724c3090725dc807bbda52b6031fb0afbace1d5a7bbff51cea194996"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69175_4950_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e018-69175_4950_25_thumbnail.png",
+     "file:size": 32672,
+     "file:checksum": "12209cdefacf66e0f3e14754daae7cb59e9ea0989d3a3d949b046f28e32d3491284f"
+    }
+   }
+  },
+  {
+   "id": "20e018-69175_4975_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.951615889683849,
+    62.388844740326576,
+    14.999999999999982,
+    62.4112932759229
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.951652071608956,
+       62.388844740326576
+      ],
+      [
+       14.999999999999982,
+       62.38885312992064
+      ],
+      [
+       14.999999999999982,
+       62.4112932759229
+      ],
+      [
+       14.951615889683849,
+       62.41128487835838
+      ],
+      [
+       14.951652071608956,
+       62.388844740326576
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:35:37Z",
+    "datetime": "2020-07-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 16130268,
+    "proj:bbox": [
+     497500.0,
+     6917500.0,
+     500000.0,
+     6920000.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.6232048022,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-08-10T00:00:00Z",
+    "data_modified": "2021-02-24T00:00:00Z",
+    "start_datetime": "2020-06-21T00:00:00Z",
+    "skanningsomrade": "20E018"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e018/y20e018-69175_4975_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e018-69175_4975_25.copc.laz",
+     "file:size": 91111699,
+     "proj:bbox": [
+      497500.0,
+      6917500.0,
+      500000.0,
+      6920000.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "12205d256ce1c62aa750b462ac0949ece267037acdf1cfe57b9b532dea51f4d49b72"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69175_4975_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e018-69175_4975_25_info.json",
+     "file:size": 26363,
+     "file:checksum": "122092420afeb0b37cb2ad7b690e245c10c42c9a5ce1ef85a93884ca1f7f635499e8"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69175_4975_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e018-69175_4975_25_thumbnail.png",
+     "file:size": 32819,
+     "file:checksum": "12207a98aad00a47c21be8f28866b354180ba9c0d4e6a29e6d67bdd9e263d21465fe"
+    }
+   }
+  },
+  {
+   "id": "20e018-691_48",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.612932293196314,
+    62.320996853084914,
+    14.807041606910314,
+    62.41115891530007
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.613221736067427,
+       62.3883162027649
+      ],
+      [
+       14.612932293196314,
+       62.410755838673005
+      ],
+      [
+       14.806464174904905,
+       62.41115891530007
+      ],
+      [
+       14.807041606910314,
+       62.32139840286473
+      ],
+      [
+       14.614087119207085,
+       62.320996853084914
+      ],
+      [
+       14.613221736067427,
+       62.3883162027649
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-06-17T14:03:02Z",
+    "datetime": "2020-07-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 293835663,
+    "proj:bbox": [
+     480000.0,
+     6910000.0,
+     490000.0,
+     6920000.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.5837403521,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-08-10T00:00:00Z",
+    "data_modified": "2021-02-24T00:00:00Z",
+    "start_datetime": "2020-06-21T00:00:00Z",
+    "skanningsomrade": "20E018"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e018/m20e018-691_48.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "m20e018-691_48.copc.laz",
+     "file:size": 1482201711,
+     "proj:bbox": [
+      480000.0,
+      6910000.0,
+      490000.0,
+      6920000.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "1220b2da11b11fda9361a44552435102a931ee9d20d6a92346376050f9453deae266"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/m20e018-691_48_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "m20e018-691_48_info.json",
+     "file:size": 28524,
+     "file:checksum": "122047cbe47c4113f4ccb49382f0c534e3ff742c04eb05be347a47a65a5359ee4e11"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/m20e018-691_48_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "m20e018-691_48_thumbnail.png",
+     "file:size": 20270,
+     "file:checksum": "12203b7edda9ba92b6a3524b7dec6f08ca652204411d8978125b6695e98757a1444a"
+    }
+   }
+  },
+  {
+   "id": "20e018-691_49",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.806464174904905,
+    62.32139840286473,
+    14.999999999999982,
+    62.4112932759229
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.806608901113643,
+       62.388718896824294
+      ],
+      [
+       14.806464174904905,
+       62.41115891530007
+      ],
+      [
+       14.999999999999982,
+       62.4112932759229
+      ],
+      [
+       14.999999999999982,
+       62.321532254522765
+      ],
+      [
+       14.807041606910314,
+       62.32139840286473
+      ],
+      [
+       14.806608901113643,
+       62.388718896824294
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-06-17T14:03:02Z",
+    "datetime": "2020-07-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 287218717,
+    "proj:bbox": [
+     490000.0,
+     6910000.0,
+     500000.0,
+     6920000.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.6207259036,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-08-10T00:00:00Z",
+    "data_modified": "2021-02-24T00:00:00Z",
+    "start_datetime": "2020-06-21T00:00:00Z",
+    "skanningsomrade": "20E018"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e018/m20e018-691_49.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "m20e018-691_49.copc.laz",
+     "file:size": 1443731605,
+     "proj:bbox": [
+      490000.0,
+      6910000.0,
+      500000.0,
+      6920000.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "1220859de3b12dfb56cf5c02453480ff4b204d49643ac2d22aa4317cedc8f3ef796f"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/m20e018-691_49_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "m20e018-691_49_info.json",
+     "file:size": 22689,
+     "file:checksum": "12203b178fb3f72d0ba014948c3043adf5894f5ba7378621dbaa165827e2d9e17bee"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/m20e018-691_49_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "m20e018-691_49_thumbnail.png",
+     "file:size": 26911,
+     "file:checksum": "122071a89974dd310e4db56bc7859e8a98dd3dcee72bdf680ee6448b62fe31238632"
+    }
+   }
+  },
+  {
+   "id": "20e018-69200_4875_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.757899466034806,
+    62.41108333783364,
+    14.806464174904905,
+    62.43359886075295
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.758080680753851,
+       62.41108333783364
+      ],
+      [
+       14.806464174904905,
+       62.41115891530007
+      ],
+      [
+       14.806319202231757,
+       62.43359886075295
+      ],
+      [
+       14.757899466034806,
+       62.4335232114463
+      ],
+      [
+       14.758080680753851,
+       62.41108333783364
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:35:37Z",
+    "datetime": "2020-07-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 21010034,
+    "proj:bbox": [
+     487500.0,
+     6920000.0,
+     490000.0,
+     6922500.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.5718145096,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-08-10T00:00:00Z",
+    "data_modified": "2021-02-24T00:00:00Z",
+    "start_datetime": "2020-06-21T00:00:00Z",
+    "skanningsomrade": "20E018"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e018/y20e018-69200_4875_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e018-69200_4875_25.copc.laz",
+     "file:size": 118963033,
+     "proj:bbox": [
+      487500.0,
+      6920000.0,
+      490000.0,
+      6922500.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "1220a4c45a5c8471d39db1edb328b9f1e54de7c9062e1624fc08bb06412cf3cc7386"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69200_4875_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e018-69200_4875_25_info.json",
+     "file:size": 23178,
+     "file:checksum": "12209a83151eca4f7d6ec418891d599d9087f4eb923a9c3180337c66d31722d0d675"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69200_4875_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e018-69200_4875_25_thumbnail.png",
+     "file:size": 27217,
+     "file:checksum": "1220d69fc41491d4b145e40c2b118f031f0f282f458c4aa95166e7d2f5239dbf37c7"
+    }
+   }
+  },
+  {
+   "id": "20e018-69200_4900_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.806319202231757,
+    62.41115891530007,
+    14.854847915520049,
+    62.43365769929411
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.806464174904905,
+       62.41115891530007
+      ],
+      [
+       14.854847915520049,
+       62.41121769796508
+      ],
+      [
+       14.854739185491399,
+       62.43365769929411
+      ],
+      [
+       14.806319202231757,
+       62.43359886075295
+      ],
+      [
+       14.806464174904905,
+       62.41115891530007
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:35:37Z",
+    "datetime": "2020-07-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 17927227,
+    "proj:bbox": [
+     490000.0,
+     6920000.0,
+     492500.0,
+     6922500.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.6059238925,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-08-10T00:00:00Z",
+    "data_modified": "2021-02-24T00:00:00Z",
+    "start_datetime": "2020-06-21T00:00:00Z",
+    "skanningsomrade": "20E018"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e018/y20e018-69200_4900_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e018-69200_4900_25.copc.laz",
+     "file:size": 100156326,
+     "proj:bbox": [
+      490000.0,
+      6920000.0,
+      492500.0,
+      6922500.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "1220a0074920949a7e0f7e17443124e146c0c593ad395d8c4712e4ea2c4182589e42"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69200_4900_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e018-69200_4900_25_info.json",
+     "file:size": 23163,
+     "file:checksum": "12205b7f3517f82a72fe7ac342d836a05baac8f10865d7e2527a4a9d89086128db53"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69200_4900_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e018-69200_4900_25_thumbnail.png",
+     "file:size": 30275,
+     "file:checksum": "1220f96973d1810b2762907a4a67ae03b2640c97922c4fa11fbaaa8abd2b96010c55"
+    }
+   }
+  },
+  {
+   "id": "20e018-69200_4925_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.854739185491399,
+    62.41121769796508,
+    14.903231840984954,
+    62.43369972692609
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.854847915520049,
+       62.41121769796508
+      ],
+      [
+       14.903231840984954,
+       62.4112596856853
+      ],
+      [
+       14.903159354049766,
+       62.43369972692609
+      ],
+      [
+       14.854739185491399,
+       62.43365769929411
+      ],
+      [
+       14.854847915520049,
+       62.41121769796508
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:35:37Z",
+    "datetime": "2020-07-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 20325013,
+    "proj:bbox": [
+     492500.0,
+     6920000.0,
+     495000.0,
+     6922500.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.5679621187,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-08-10T00:00:00Z",
+    "data_modified": "2021-02-24T00:00:00Z",
+    "start_datetime": "2020-06-21T00:00:00Z",
+    "skanningsomrade": "20E018"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e018/y20e018-69200_4925_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e018-69200_4925_25.copc.laz",
+     "file:size": 113861757,
+     "proj:bbox": [
+      492500.0,
+      6920000.0,
+      495000.0,
+      6922500.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "122055e1f1332a02336d6b0e271961aeef4da07dfefd8011c2226a0299b14a934077"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69200_4925_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e018-69200_4925_25_info.json",
+     "file:size": 23487,
+     "file:checksum": "122018f8eb7c04f44ccdaa50290d253cc9909b2c507829be050d57c2a196140058fe"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69200_4925_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e018-69200_4925_25_thumbnail.png",
+     "file:size": 28736,
+     "file:checksum": "1220618f59b10b0be6216bb265f40794ecc8ddca5887a300e5b7a7ec8ded10058ce4"
+    }
+   }
+  },
+  {
+   "id": "20e018-69200_4950_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.903159354049766,
+    62.4112596856853,
+    14.951615889683849,
+    62.43372494354633
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.903231840984954,
+       62.4112596856853
+      ],
+      [
+       14.951615889683849,
+       62.41128487835838
+      ],
+      [
+       14.951579646141427,
+       62.43372494354633
+      ],
+      [
+       14.903159354049766,
+       62.43369972692609
+      ],
+      [
+       14.903231840984954,
+       62.4112596856853
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:35:37Z",
+    "datetime": "2020-07-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 19927419,
+    "proj:bbox": [
+     495000.0,
+     6920000.0,
+     497500.0,
+     6922500.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.5705186405,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-08-10T00:00:00Z",
+    "data_modified": "2021-02-24T00:00:00Z",
+    "start_datetime": "2020-06-21T00:00:00Z",
+    "skanningsomrade": "20E018"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e018/y20e018-69200_4950_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e018-69200_4950_25.copc.laz",
+     "file:size": 110443424,
+     "proj:bbox": [
+      495000.0,
+      6920000.0,
+      497500.0,
+      6922500.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "122083da57f949fae3fba0e42eaaa1f48f0202811e7928eaf441576273dbe74d405c"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69200_4950_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e018-69200_4950_25_info.json",
+     "file:size": 26324,
+     "file:checksum": "12203ea18217279b5de3cd0c60663ac5be6d539ad43bf1c06032cd60e255f13f24c5"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69200_4950_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e018-69200_4950_25_thumbnail.png",
+     "file:size": 31498,
+     "file:checksum": "1220677ab8cd626cf38e824bd1fed0b13f0ebc5f7587f6cc4e1daa3f07d451551efb"
+    }
+   }
+  },
+  {
+   "id": "20e018-69200_4975_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.951579646141427,
+    62.41128487835838,
+    14.999999999999982,
+    62.43373334909325
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.951615889683849,
+       62.41128487835838
+      ],
+      [
+       14.999999999999982,
+       62.4112932759229
+      ],
+      [
+       14.999999999999982,
+       62.43373334909325
+      ],
+      [
+       14.951579646141427,
+       62.43372494354633
+      ],
+      [
+       14.951615889683849,
+       62.41128487835838
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:35:37Z",
+    "datetime": "2020-07-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 8884656,
+    "proj:bbox": [
+     497500.0,
+     6920000.0,
+     500000.0,
+     6922500.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.8981708112,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-08-10T00:00:00Z",
+    "data_modified": "2021-02-24T00:00:00Z",
+    "start_datetime": "2020-06-21T00:00:00Z",
+    "skanningsomrade": "20E018"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e018/y20e018-69200_4975_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e018-69200_4975_25.copc.laz",
+     "file:size": 44120987,
+     "proj:bbox": [
+      497500.0,
+      6920000.0,
+      500000.0,
+      6922500.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "1220fd553b28d33fbc0a49d7f26a85464997df0f05ef6857b20035dc4c6694c78361"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69200_4975_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e018-69200_4975_25_info.json",
+     "file:size": 24480,
+     "file:checksum": "12209510f431759a6121eeaefb7d9bc40d01f8ce66240753d048bf121ab9835d6604"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69200_4975_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e018-69200_4975_25_thumbnail.png",
+     "file:size": 14207,
+     "file:checksum": "1220a3b4d444209aa8e6ab4eaf54973eceb390d7e45a320aa6de43944de395e1241f"
+    }
+   }
+  },
+  {
+   "id": "20e018-69225_4875_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.757717942490652,
+    62.4335232114463,
+    14.806319202231757,
+    62.45603873322251
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.757899466034806,
+       62.4335232114463
+      ],
+      [
+       14.806319202231757,
+       62.43359886075295
+      ],
+      [
+       14.806173982495595,
+       62.45603873322251
+      ],
+      [
+       14.757717942490652,
+       62.45596301196795
+      ],
+      [
+       14.757899466034806,
+       62.4335232114463
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:35:37Z",
+    "datetime": "2020-07-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 24717034,
+    "proj:bbox": [
+     487500.0,
+     6922500.0,
+     490000.0,
+     6925000.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.5003210203,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-08-10T00:00:00Z",
+    "data_modified": "2021-02-24T00:00:00Z",
+    "start_datetime": "2020-06-21T00:00:00Z",
+    "skanningsomrade": "20E018"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e018/y20e018-69225_4875_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e018-69225_4875_25.copc.laz",
+     "file:size": 135368228,
+     "proj:bbox": [
+      487500.0,
+      6922500.0,
+      490000.0,
+      6925000.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "122034b53c0a84b529bbc1b9066de0c2c950c06f44a187ec206f3286bf5fe8b95a09"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69225_4875_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e018-69225_4875_25_info.json",
+     "file:size": 28785,
+     "file:checksum": "1220a73d875eb358a3cc7174d3d48fcb332c2ce5348e46dd38939a008674348ca1e7"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69225_4875_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e018-69225_4875_25_thumbnail.png",
+     "file:size": 26188,
+     "file:checksum": "1220c22bd0afc7666b215a2833d6618f51d8631ac1930a47dcf9b47f2eb1968d54e1"
+    }
+   }
+  },
+  {
+   "id": "20e018-69225_4900_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.806173982495595,
+    62.43359886075295,
+    14.854739185491399,
+    62.45609762772355
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.806319202231757,
+       62.43359886075295
+      ],
+      [
+       14.854739185491399,
+       62.43365769929411
+      ],
+      [
+       14.854630270163781,
+       62.45609762772355
+      ],
+      [
+       14.806173982495595,
+       62.45603873322251
+      ],
+      [
+       14.806319202231757,
+       62.43359886075295
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:35:38Z",
+    "datetime": "2020-07-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 25772292,
+    "proj:bbox": [
+     490000.0,
+     6922500.0,
+     492500.0,
+     6925000.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.5002114079,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-08-10T00:00:00Z",
+    "data_modified": "2021-02-24T00:00:00Z",
+    "start_datetime": "2020-06-21T00:00:00Z",
+    "skanningsomrade": "20E018"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e018/y20e018-69225_4900_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e018-69225_4900_25.copc.laz",
+     "file:size": 134956895,
+     "proj:bbox": [
+      490000.0,
+      6922500.0,
+      492500.0,
+      6925000.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "1220ea612335e0142a5478f1b17ac06c03aca67f9d42586d75ee1477134ba1669cdb"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69225_4900_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e018-69225_4900_25_info.json",
+     "file:size": 23168,
+     "file:checksum": "1220df58c37a3c3258a6bf9a63c41689861e2b4721e1c4b6403ac9271f0b25db61f1"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69225_4900_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e018-69225_4900_25_thumbnail.png",
+     "file:size": 32321,
+     "file:checksum": "122036d3e5f2432424fb104d6de7dab87f26b87397f82a608d103cdb48a76f63b252"
+    }
+   }
+  },
+  {
+   "id": "20e018-69225_4925_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.854630270163781,
+    62.43365769929411,
+    14.903159354049766,
+    62.456139695327145
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.854739185491399,
+       62.43365769929411
+      ],
+      [
+       14.903159354049766,
+       62.43369972692609
+      ],
+      [
+       14.903086743581115,
+       62.456139695327145
+      ],
+      [
+       14.854630270163781,
+       62.45609762772355
+      ],
+      [
+       14.854739185491399,
+       62.43365769929411
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:35:38Z",
+    "datetime": "2020-07-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 27795396,
+    "proj:bbox": [
+     492500.0,
+     6922500.0,
+     495000.0,
+     6925000.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.4824494405,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-08-10T00:00:00Z",
+    "data_modified": "2021-02-24T00:00:00Z",
+    "start_datetime": "2020-06-21T00:00:00Z",
+    "skanningsomrade": "20E018"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e018/y20e018-69225_4925_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e018-69225_4925_25.copc.laz",
+     "file:size": 155611360,
+     "proj:bbox": [
+      492500.0,
+      6922500.0,
+      495000.0,
+      6925000.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "1220c74ed2a0c066a613581adbf9c6281366d6d51e8f120da419055ad00d179b9088"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69225_4925_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e018-69225_4925_25_info.json",
+     "file:size": 26432,
+     "file:checksum": "1220e61cb3767a06432d1c1b501f333807b9a63c7378335cc68df9bc0d60ac0bb948"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69225_4925_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e018-69225_4925_25_thumbnail.png",
+     "file:size": 29808,
+     "file:checksum": "1220cef66206fd4ec137ebc830204b01219883cc49e0371d7832ebcf7d9a7196ee74"
+    }
+   }
+  },
+  {
+   "id": "20e018-69225_4950_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.903086743581115,
+    62.43369972692609,
+    14.951579646141427,
+    62.45616493593043
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.903159354049766,
+       62.43369972692609
+      ],
+      [
+       14.951579646141427,
+       62.43372494354633
+      ],
+      [
+       14.95154334083203,
+       62.45616493593043
+      ],
+      [
+       14.903086743581115,
+       62.456139695327145
+      ],
+      [
+       14.903159354049766,
+       62.43369972692609
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:35:38Z",
+    "datetime": "2020-07-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 24173844,
+    "proj:bbox": [
+     495000.0,
+     6922500.0,
+     497500.0,
+     6925000.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.485342241,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-08-10T00:00:00Z",
+    "data_modified": "2021-02-24T00:00:00Z",
+    "start_datetime": "2020-06-21T00:00:00Z",
+    "skanningsomrade": "20E018"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e018/y20e018-69225_4950_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e018-69225_4950_25.copc.laz",
+     "file:size": 134332602,
+     "proj:bbox": [
+      495000.0,
+      6922500.0,
+      497500.0,
+      6925000.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "12200b5a6aada4da528e27bab18ffa5fe10217f01ffcd5d256909db5f3d2297f8478"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69225_4950_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e018-69225_4950_25_info.json",
+     "file:size": 36976,
+     "file:checksum": "12202e2205ebd94949af3ec5458514d135c9b8cb2a7e9fa70190e9d2204b3d6864e7"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69225_4950_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e018-69225_4950_25_thumbnail.png",
+     "file:size": 33062,
+     "file:checksum": "12203de663cbc27782e9233af5bec0b3b82db8d73ffcbc55a6cc388108a123e3e392"
+    }
+   }
+  },
+  {
+   "id": "20e018-69225_4975_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.95154334083203,
+    62.43372494354633,
+    14.999999999999982,
+    62.45617334947172
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.951579646141427,
+       62.43372494354633
+      ],
+      [
+       14.999999999999982,
+       62.43373334909325
+      ],
+      [
+       14.999999999999982,
+       62.45617334947172
+      ],
+      [
+       14.95154334083203,
+       62.45616493593043
+      ],
+      [
+       14.951579646141427,
+       62.43372494354633
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:35:38Z",
+    "datetime": "2020-07-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 18724362,
+    "proj:bbox": [
+     497500.0,
+     6922500.0,
+     500000.0,
+     6925000.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.5172963944,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-08-10T00:00:00Z",
+    "data_modified": "2021-02-24T00:00:00Z",
+    "start_datetime": "2020-06-21T00:00:00Z",
+    "skanningsomrade": "20E018"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e018/y20e018-69225_4975_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e018-69225_4975_25.copc.laz",
+     "file:size": 102937454,
+     "proj:bbox": [
+      497500.0,
+      6922500.0,
+      500000.0,
+      6925000.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "12209e1f0014aa538b5992d39a19e5895c498f3deced2ba13f1d18ea8b444eca4aa3"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69225_4975_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e018-69225_4975_25_info.json",
+     "file:size": 42875,
+     "file:checksum": "122057997b03661830ca52190e3b89b5bd99143783321245b84ffdbc2abe98de38bc"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/y20e018-69225_4975_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e018-69225_4975_25_thumbnail.png",
+     "file:size": 32290,
+     "file:checksum": "122008706b694ab0c9359d0053f8dc8eca7200c975f07d4e462842b5a93f8f4796b6"
+    }
+   }
+  },
+  {
+   "id": "20e018-692_48",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.61235192756389,
+    62.410755838673005,
+    14.806464174904905,
+    62.45603873322251
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.806464174904905,
+       62.41115891530007
+      ],
+      [
+       14.612932293196314,
+       62.410755838673005
+      ],
+      [
+       14.61235192756389,
+       62.45563488974007
+      ],
+      [
+       14.806173982495595,
+       62.45603873322251
+      ],
+      [
+       14.806464174904905,
+       62.41115891530007
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-06-17T14:03:02Z",
+    "datetime": "2020-07-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 179428789,
+    "proj:bbox": [
+     480000.0,
+     6920000.0,
+     490000.0,
+     6925000.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.5295376342,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-08-10T00:00:00Z",
+    "data_modified": "2021-02-24T00:00:00Z",
+    "start_datetime": "2020-06-21T00:00:00Z",
+    "skanningsomrade": "20E018"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e018/m20e018-692_48.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "m20e018-692_48.copc.laz",
+     "file:size": 890915968,
+     "proj:bbox": [
+      480000.0,
+      6920000.0,
+      490000.0,
+      6925000.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "122025aa381dda4773088ca22b59bb5923a471a16f0ff3e518a58e98cb51a4698317"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/m20e018-692_48_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "m20e018-692_48_info.json",
+     "file:size": 30675,
+     "file:checksum": "12204dafd39f602724097bd65292b62cfa110374798189dcf2209a63bc3b29ef6f33"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/m20e018-692_48_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "m20e018-692_48_thumbnail.png",
+     "file:size": 12811,
+     "file:checksum": "1220f958874ab745372a6219d0d436bf3eea003206bb0d175eb436acf199cdbd7fb0"
+    }
+   }
+  },
+  {
+   "id": "20e018-692_49",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.806173982495595,
+    62.41115891530007,
+    14.999999999999982,
+    62.45617334947172
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.999999999999982,
+       62.4112932759229
+      ],
+      [
+       14.806464174904905,
+       62.41115891530007
+      ],
+      [
+       14.806173982495595,
+       62.45603873322251
+      ],
+      [
+       14.999999999999982,
+       62.45617334947172
+      ],
+      [
+       14.999999999999982,
+       62.4112932759229
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-06-17T14:03:02Z",
+    "datetime": "2020-07-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 163530209,
+    "proj:bbox": [
+     490000.0,
+     6920000.0,
+     500000.0,
+     6925000.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.5377847863,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-08-10T00:00:00Z",
+    "data_modified": "2021-02-24T00:00:00Z",
+    "start_datetime": "2020-06-21T00:00:00Z",
+    "skanningsomrade": "20E018"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e018/m20e018-692_49.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "m20e018-692_49.copc.laz",
+     "file:size": 838178757,
+     "proj:bbox": [
+      490000.0,
+      6920000.0,
+      500000.0,
+      6925000.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "1220128538ccc799f2a18642f8b72916aa0e4eba82b39256fb521b1229e12697987e"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/m20e018-692_49_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "m20e018-692_49_info.json",
+     "file:size": 54252,
+     "file:checksum": "1220ed5d5fcefea779715c5802791f26fcd8958269792e89c424b24b55ea68028aaf"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e018/m20e018-692_49_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "m20e018-692_49_thumbnail.png",
+     "file:size": 14653,
+     "file:checksum": "122069f8e9d2f78b2beb9b798f83ee93f5f5bf203fa3e442e695060acf58287e3eec"
+    }
+   }
+  },
+  {
+   "id": "20e019-69150_5000_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.999999999999982,
+    62.36640452941098,
+    15.04834792839101,
+    62.38885312992064
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.999999999999982,
+       62.36641291104647
+      ],
+      [
+       15.048311807934054,
+       62.36640452941098
+      ],
+      [
+       15.04834792839101,
+       62.388844740326576
+      ],
+      [
+       14.999999999999982,
+       62.38885312992064
+      ],
+      [
+       14.999999999999982,
+       62.36641291104647
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:35:46Z",
+    "datetime": "2020-06-12T12:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 18092078,
+    "proj:bbox": [
+     500000.0,
+     6915000.0,
+     502500.0,
+     6917500.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.6404609271,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-06-13T00:00:00Z",
+    "data_modified": "2020-12-19T00:00:00Z",
+    "start_datetime": "2020-06-12T00:00:00Z",
+    "skanningsomrade": "20E019"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e019/y20e019-69150_5000_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e019-69150_5000_25.copc.laz",
+     "file:size": 95249328,
+     "proj:bbox": [
+      500000.0,
+      6915000.0,
+      502500.0,
+      6917500.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "1220f4c58ac672dad692e85b04590c8ec676233dc200df19666eaed925587cd3d2be"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e019/y20e019-69150_5000_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e019-69150_5000_25_info.json",
+     "file:size": 23628,
+     "file:checksum": "1220395dadd60b91f071f99e6dd314a15923cf22d2caca7ada3c13a254a44535e2d3"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e019/y20e019-69150_5000_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e019-69150_5000_25_thumbnail.png",
+     "file:size": 34357,
+     "file:checksum": "12209ffe0aee0f3f57d66c5a8b564af015563105bf92b2f12ce4db4ab4bf37f6e6d7"
+    }
+   }
+  },
+  {
+   "id": "20e019-69150_5025_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    15.048311807934054,
+    62.36637938452485,
+    15.09669579531397,
+    62.388844740326576
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       15.048311807934054,
+       62.36640452941098
+      ],
+      [
+       15.096623554548742,
+       62.36637938452485
+      ],
+      [
+       15.09669579531397,
+       62.38881957156484
+      ],
+      [
+       15.04834792839101,
+       62.388844740326576
+      ],
+      [
+       15.048311807934054,
+       62.36640452941098
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:35:46Z",
+    "datetime": "2020-06-12T12:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 7768210,
+    "proj:bbox": [
+     502500.0,
+     6915000.0,
+     505000.0,
+     6917500.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.8822165061,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-06-13T00:00:00Z",
+    "data_modified": "2020-12-19T00:00:00Z",
+    "start_datetime": "2020-06-12T00:00:00Z",
+    "skanningsomrade": "20E019"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e019/y20e019-69150_5025_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e019-69150_5025_25.copc.laz",
+     "file:size": 40055296,
+     "proj:bbox": [
+      502500.0,
+      6915000.0,
+      505000.0,
+      6917500.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "1220ba084462aa9780b662d3631dfdf7ffc82734e312c099ecf68675345be2f05421"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e019/y20e019-69150_5025_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e019-69150_5025_25_info.json",
+     "file:size": 26354,
+     "file:checksum": "1220e4bb8f644d850624c82ceb576c6fd1bd1276d89764cae22f37a187d6ac8fcd3f"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e019/y20e019-69150_5025_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e019-69150_5025_25_thumbnail.png",
+     "file:size": 11249,
+     "file:checksum": "122032baa68ff15b6b06028aadafeb4825055a368389512508e1c9e3c210b297a1e4"
+    }
+   }
+  },
+  {
+   "id": "20e019-69175_5000_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.999999999999982,
+    62.388844740326576,
+    15.048384110316116,
+    62.4112932759229
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.999999999999982,
+       62.38885312992064
+      ],
+      [
+       15.04834792839101,
+       62.388844740326576
+      ],
+      [
+       15.048384110316116,
+       62.41128487835838
+      ],
+      [
+       14.999999999999982,
+       62.4112932759229
+      ],
+      [
+       14.999999999999982,
+       62.38885312992064
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:35:47Z",
+    "datetime": "2020-06-12T12:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 14701661,
+    "proj:bbox": [
+     500000.0,
+     6917500.0,
+     502500.0,
+     6920000.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.6492504371,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-06-13T00:00:00Z",
+    "data_modified": "2020-12-19T00:00:00Z",
+    "start_datetime": "2020-06-12T00:00:00Z",
+    "skanningsomrade": "20E019"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e019/y20e019-69175_5000_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e019-69175_5000_25.copc.laz",
+     "file:size": 75948064,
+     "proj:bbox": [
+      500000.0,
+      6917500.0,
+      502500.0,
+      6920000.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "122071a5eadb095d16733f2d60b87fcacd76ecb1735a0bd47805b59822dba4d959a6"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e019/y20e019-69175_5000_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e019-69175_5000_25_info.json",
+     "file:size": 28050,
+     "file:checksum": "12207c616734c63ecb90ce94447130746703e7722a8ab0006c6c77797d67f57c51fc"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e019/y20e019-69175_5000_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e019-69175_5000_25_thumbnail.png",
+     "file:size": 24649,
+     "file:checksum": "122023979f04c26d48fd031e768b2d291ed532061c391b584e06bc41cdb7fe951d4c"
+    }
+   }
+  },
+  {
+   "id": "20e019-69175_5025_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    15.04834792839101,
+    62.38881957156484,
+    15.096768159015012,
+    62.41128487835838
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       15.04834792839101,
+       62.388844740326576
+      ],
+      [
+       15.09669579531397,
+       62.38881957156484
+      ],
+      [
+       15.096768159015012,
+       62.4112596856853
+      ],
+      [
+       15.048384110316116,
+       62.41128487835838
+      ],
+      [
+       15.04834792839101,
+       62.388844740326576
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:35:47Z",
+    "datetime": "2020-06-12T12:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 19432751,
+    "proj:bbox": [
+     502500.0,
+     6917500.0,
+     505000.0,
+     6920000.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.6607592652,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-06-13T00:00:00Z",
+    "data_modified": "2020-12-19T00:00:00Z",
+    "start_datetime": "2020-06-12T00:00:00Z",
+    "skanningsomrade": "20E019"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e019/y20e019-69175_5025_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e019-69175_5025_25.copc.laz",
+     "file:size": 101713954,
+     "proj:bbox": [
+      502500.0,
+      6917500.0,
+      505000.0,
+      6920000.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "122073b6133494666396c9bc9e60702fb53f06ba17ebc05bb60d9c3ac85acfd6a0ad"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e019/y20e019-69175_5025_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e019-69175_5025_25_info.json",
+     "file:size": 23188,
+     "file:checksum": "1220080de3d746828c8b19389b621afb2c0ea0b8b551191a4be9b3f52106e7892cd2"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e019/y20e019-69175_5025_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e019-69175_5025_25_thumbnail.png",
+     "file:size": 28123,
+     "file:checksum": "122066807b4ae3f801b4501a7beddabe001da20997313e0381eee729629cd8bf1520"
+    }
+   }
+  },
+  {
+   "id": "20e019-691_50",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.999999999999982,
+    62.32139840286473,
+    15.19353582509506,
+    62.4112932759229
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.999999999999982,
+       62.38885312992064
+      ],
+      [
+       14.999999999999982,
+       62.4112932759229
+      ],
+      [
+       15.19353582509506,
+       62.41115891530007
+      ],
+      [
+       15.192958393089652,
+       62.32139840286473
+      ],
+      [
+       14.999999999999982,
+       62.321532254522765
+      ],
+      [
+       14.999999999999982,
+       62.38885312992064
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-06-17T14:03:02Z",
+    "datetime": "2020-06-12T12:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 253881216,
+    "proj:bbox": [
+     500000.0,
+     6910000.0,
+     510000.0,
+     6920000.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.6379723634,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-06-13T00:00:00Z",
+    "data_modified": "2020-12-19T00:00:00Z",
+    "start_datetime": "2020-06-12T00:00:00Z",
+    "skanningsomrade": "20E019"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e019/m20e019-691_50.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "m20e019-691_50.copc.laz",
+     "file:size": 1291664910,
+     "proj:bbox": [
+      500000.0,
+      6910000.0,
+      510000.0,
+      6920000.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "12204bb8186381b368a758471a1c09a0f2649203b9ed7eba92fc47cbad6742825b19"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e019/m20e019-691_50_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "m20e019-691_50_info.json",
+     "file:size": 26524,
+     "file:checksum": "12207fac95695af59b486d3514530dcf5052fc867b850c50dc5d9467fb33700c70e8"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e019/m20e019-691_50_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "m20e019-691_50_thumbnail.png",
+     "file:size": 21641,
+     "file:checksum": "1220b608931729df521138e68cbcc453ed1c0695b5ea6b450fdfd7b4039380d6eb70"
+    }
+   }
+  },
+  {
+   "id": "20e019-69200_5000_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.999999999999982,
+    62.41128487835838,
+    15.048420353858537,
+    62.43373334909325
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.999999999999982,
+       62.4112932759229
+      ],
+      [
+       15.048384110316116,
+       62.41128487835838
+      ],
+      [
+       15.048420353858537,
+       62.43372494354633
+      ],
+      [
+       14.999999999999982,
+       62.43373334909325
+      ],
+      [
+       14.999999999999982,
+       62.4112932759229
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:35:47Z",
+    "datetime": "2020-06-12T12:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 18788490,
+    "proj:bbox": [
+     500000.0,
+     6920000.0,
+     502500.0,
+     6922500.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.5882463292,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-06-13T00:00:00Z",
+    "data_modified": "2020-12-19T00:00:00Z",
+    "start_datetime": "2020-06-12T00:00:00Z",
+    "skanningsomrade": "20E019"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e019/y20e019-69200_5000_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e019-69200_5000_25.copc.laz",
+     "file:size": 105265685,
+     "proj:bbox": [
+      500000.0,
+      6920000.0,
+      502500.0,
+      6922500.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "122086b79a3c9d912069c9433fec1047751f29e3235cd13f3bf6d9940b7d20b5c660"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e019/y20e019-69200_5000_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e019-69200_5000_25_info.json",
+     "file:size": 24379,
+     "file:checksum": "12200670963822979502f69c02d8fd68cdd172b46f2fdcb5a94c367b96e2655b330d"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e019/y20e019-69200_5000_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e019-69200_5000_25_thumbnail.png",
+     "file:size": 30605,
+     "file:checksum": "1220b598eee8f51e025509099e558c65da13e6fad483d68e0dd108607df7084626d8"
+    }
+   }
+  },
+  {
+   "id": "20e019-69200_5025_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    15.048384110316116,
+    62.4112596856853,
+    15.096840645950198,
+    62.43372494354633
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       15.048384110316116,
+       62.41128487835838
+      ],
+      [
+       15.096768159015012,
+       62.4112596856853
+      ],
+      [
+       15.096840645950198,
+       62.43369972692609
+      ],
+      [
+       15.048420353858537,
+       62.43372494354633
+      ],
+      [
+       15.048384110316116,
+       62.41128487835838
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:35:47Z",
+    "datetime": "2020-06-12T12:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 16398202,
+    "proj:bbox": [
+     502500.0,
+     6920000.0,
+     505000.0,
+     6922500.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.6308133131,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-06-13T00:00:00Z",
+    "data_modified": "2020-12-19T00:00:00Z",
+    "start_datetime": "2020-06-12T00:00:00Z",
+    "skanningsomrade": "20E019"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e019/y20e019-69200_5025_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e019-69200_5025_25.copc.laz",
+     "file:size": 87507568,
+     "proj:bbox": [
+      502500.0,
+      6920000.0,
+      505000.0,
+      6922500.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "12206607c57aea4cc93b128ef3daa5d7c732c08f867215ca389b4c81ad46b4b735dc"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e019/y20e019-69200_5025_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e019-69200_5025_25_info.json",
+     "file:size": 25673,
+     "file:checksum": "1220521d286c0df7bef14068b355df4c4d5d5b41f49f8ac6d4bb75d81019b111ad99"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e019/y20e019-69200_5025_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e019-69200_5025_25_thumbnail.png",
+     "file:size": 25973,
+     "file:checksum": "1220fd7124b25293890fcf50b438d800a00c2676a9dbce5c23754119d0d506314d91"
+    }
+   }
+  },
+  {
+   "id": "20e019-69225_5000_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.999999999999982,
+    62.43372494354633,
+    15.048456659167936,
+    62.45617334947172
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.999999999999982,
+       62.43373334909325
+      ],
+      [
+       15.048420353858537,
+       62.43372494354633
+      ],
+      [
+       15.048456659167936,
+       62.45616493593043
+      ],
+      [
+       14.999999999999982,
+       62.45617334947172
+      ],
+      [
+       14.999999999999982,
+       62.43373334909325
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:35:47Z",
+    "datetime": "2020-06-12T12:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 22788715,
+    "proj:bbox": [
+     500000.0,
+     6922500.0,
+     502500.0,
+     6925000.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.5214592018,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-06-13T00:00:00Z",
+    "data_modified": "2020-12-19T00:00:00Z",
+    "start_datetime": "2020-06-12T00:00:00Z",
+    "skanningsomrade": "20E019"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e019/y20e019-69225_5000_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e019-69225_5000_25.copc.laz",
+     "file:size": 118223123,
+     "proj:bbox": [
+      500000.0,
+      6922500.0,
+      502500.0,
+      6925000.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "1220d9db69820a6048c6c1037c7f21f5eabe2fc3dae20a433493e3e1f8ebe5387f00"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e019/y20e019-69225_5000_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e019-69225_5000_25_info.json",
+     "file:size": 34605,
+     "file:checksum": "12203253124b38d0713d8004058674de3ba0244622a149b49a659231220bb48b499b"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e019/y20e019-69225_5000_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e019-69225_5000_25_thumbnail.png",
+     "file:size": 27903,
+     "file:checksum": "1220dc8dd3c8b0a1e3ec45e9f44db1652741373ed9b997c85437f328e9004a61e8a2"
+    }
+   }
+  },
+  {
+   "id": "20e019-69225_5025_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    15.048420353858537,
+    62.43369972692609,
+    15.09691325641885,
+    62.45616493593043
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       15.048420353858537,
+       62.43372494354633
+      ],
+      [
+       15.096840645950198,
+       62.43369972692609
+      ],
+      [
+       15.09691325641885,
+       62.456139695327145
+      ],
+      [
+       15.048456659167936,
+       62.45616493593043
+      ],
+      [
+       15.048420353858537,
+       62.43372494354633
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:35:47Z",
+    "datetime": "2020-06-12T12:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 25303264,
+    "proj:bbox": [
+     502500.0,
+     6922500.0,
+     505000.0,
+     6925000.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.5090161658,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-06-13T00:00:00Z",
+    "data_modified": "2020-12-19T00:00:00Z",
+    "start_datetime": "2020-06-12T00:00:00Z",
+    "skanningsomrade": "20E019"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e019/y20e019-69225_5025_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e019-69225_5025_25.copc.laz",
+     "file:size": 134975332,
+     "proj:bbox": [
+      502500.0,
+      6922500.0,
+      505000.0,
+      6925000.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "122089294c36cf959600d1419adc310488a1149dd76312b41a9635580dcdbd21405b"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e019/y20e019-69225_5025_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e019-69225_5025_25_info.json",
+     "file:size": 25233,
+     "file:checksum": "1220bc6526f1413d3c3ca86624bc82091eb0d75f29a88a269e9d446d80a3f05d77ad"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e019/y20e019-69225_5025_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e019-69225_5025_25_thumbnail.png",
+     "file:size": 27099,
+     "file:checksum": "1220fc08c79419c9e19a08aa22c57427a4524212f2a9768e80844afe1b52e3c9fcdf"
+    }
+   }
+  },
+  {
+   "id": "20e019-692_50",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.999999999999982,
+    62.41115891530007,
+    15.193826017504371,
+    62.45617334947172
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       15.19353582509506,
+       62.41115891530007
+      ],
+      [
+       14.999999999999982,
+       62.4112932759229
+      ],
+      [
+       14.999999999999982,
+       62.45617334947172
+      ],
+      [
+       15.193826017504371,
+       62.45603873322251
+      ],
+      [
+       15.19353582509506,
+       62.41115891530007
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-06-17T14:03:03Z",
+    "datetime": "2020-06-12T12:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 176540423,
+    "proj:bbox": [
+     500000.0,
+     6920000.0,
+     510000.0,
+     6925000.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.5537592009,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-06-13T00:00:00Z",
+    "data_modified": "2020-12-19T00:00:00Z",
+    "start_datetime": "2020-06-12T00:00:00Z",
+    "skanningsomrade": "20E019"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e019/m20e019-692_50.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "m20e019-692_50.copc.laz",
+     "file:size": 903622815,
+     "proj:bbox": [
+      500000.0,
+      6920000.0,
+      510000.0,
+      6925000.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "122081fa386ab309faade7cddf824e43300a7597e1d009961381682109f35f45d02a"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e019/m20e019-692_50_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "m20e019-692_50_info.json",
+     "file:size": 22753,
+     "file:checksum": "12201d8f8580ac8fde89596cd5c15f1efbcf117325d6b24676480c433d9e8d0dde73"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e019/m20e019-692_50_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "m20e019-692_50_thumbnail.png",
+     "file:size": 13817,
+     "file:checksum": "122028e07aae20bab5b6cda387edb8544e129beebea93f344ed45b5999f10478880f"
+    }
+   }
+  },
+  {
+   "id": "20e029-69250_4875_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.757536109370713,
+    62.45596301196795,
+    14.806173982495595,
+    62.4784785327483
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.757717942490652,
+       62.45596301196795
+      ],
+      [
+       14.806173982495595,
+       62.45603873322251
+      ],
+      [
+       14.806028515095864,
+       62.4784785327483
+      ],
+      [
+       14.757536109370713,
+       62.47840273943792
+      ],
+      [
+       14.757717942490652,
+       62.45596301196795
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:36:21Z",
+    "datetime": "2020-06-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 20268178,
+    "proj:bbox": [
+     487500.0,
+     6925000.0,
+     490000.0,
+     6927500.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.5302964518,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-06-18T00:00:00Z",
+    "data_modified": "2021-02-16T00:00:00Z",
+    "start_datetime": "2020-06-14T00:00:00Z",
+    "skanningsomrade": "20E029"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e029/y20e029-69250_4875_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e029-69250_4875_25.copc.laz",
+     "file:size": 106287735,
+     "proj:bbox": [
+      487500.0,
+      6925000.0,
+      490000.0,
+      6927500.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "1220e6f6ba1a0af49e6cfad419fe421725db1a6dec87d76130814644a568d10ac16f"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e029/y20e029-69250_4875_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e029-69250_4875_25_info.json",
+     "file:size": 48430,
+     "file:checksum": "12203c8c21a6f3621bfef0e8684f45019a0b0d7d83044e5ca38ec81d9d0d26fd24e8"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e029/y20e029-69250_4875_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e029-69250_4875_25_thumbnail.png",
+     "file:size": 19916,
+     "file:checksum": "12200a7ae9351b0ba6a4a38443ae3dd00f01d65c49f6451bf8c508644bfe40bde108"
+    }
+   }
+  },
+  {
+   "id": "20e029-69250_4900_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.806028515095864,
+    62.45603873322251,
+    14.854630270163781,
+    62.47853748329322
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.806173982495595,
+       62.45603873322251
+      ],
+      [
+       14.854630270163781,
+       62.45609762772355
+      ],
+      [
+       14.854521169086773,
+       62.47853748329322
+      ],
+      [
+       14.806028515095864,
+       62.4784785327483
+      ],
+      [
+       14.806173982495595,
+       62.45603873322251
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:36:22Z",
+    "datetime": "2020-06-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 19162926,
+    "proj:bbox": [
+     490000.0,
+     6925000.0,
+     492500.0,
+     6927500.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.5887983776,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-06-18T00:00:00Z",
+    "data_modified": "2021-02-16T00:00:00Z",
+    "start_datetime": "2020-06-14T00:00:00Z",
+    "skanningsomrade": "20E029"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e029/y20e029-69250_4900_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e029-69250_4900_25.copc.laz",
+     "file:size": 108855373,
+     "proj:bbox": [
+      490000.0,
+      6925000.0,
+      492500.0,
+      6927500.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "1220284d33e3512ad3c05c4644616b9032a2b9549b85d5acebe5917e8007dc13beaa"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e029/y20e029-69250_4900_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e029-69250_4900_25_info.json",
+     "file:size": 24523,
+     "file:checksum": "1220edb8f5b079034bc788df43488c146c8a4042c5aee1e7e352036c00cef29d4f45"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e029/y20e029-69250_4900_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e029-69250_4900_25_thumbnail.png",
+     "file:size": 31241,
+     "file:checksum": "1220a7d4d783fdad5b120adca264a0ec3c32c68e7f2dc2230a64afbf0146a1af2b41"
+    }
+   }
+  },
+  {
+   "id": "20e029-69250_4925_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.854521169086773,
+    62.45609762772355,
+    14.903086743581115,
+    62.47857959092837
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.854630270163781,
+       62.45609762772355
+      ],
+      [
+       14.903086743581115,
+       62.456139695327145
+      ],
+      [
+       14.90301400927872,
+       62.47857959092837
+      ],
+      [
+       14.854521169086773,
+       62.47853748329322
+      ],
+      [
+       14.854630270163781,
+       62.45609762772355
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:36:22Z",
+    "datetime": "2020-06-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 23812659,
+    "proj:bbox": [
+     492500.0,
+     6925000.0,
+     495000.0,
+     6927500.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.5279451256,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-06-18T00:00:00Z",
+    "data_modified": "2021-02-16T00:00:00Z",
+    "start_datetime": "2020-06-14T00:00:00Z",
+    "skanningsomrade": "20E029"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e029/y20e029-69250_4925_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e029-69250_4925_25.copc.laz",
+     "file:size": 133932565,
+     "proj:bbox": [
+      492500.0,
+      6925000.0,
+      495000.0,
+      6927500.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "12202779ccdbf2f2a0c87e665e0bdf74cc363206cb86b9307e079f59e973a5b93605"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e029/y20e029-69250_4925_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e029-69250_4925_25_info.json",
+     "file:size": 23613,
+     "file:checksum": "122038efd350ede4be56a603d96e315efbfb6032497e1a565af56f7fd07e3048a0da"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e029/y20e029-69250_4925_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e029-69250_4925_25_thumbnail.png",
+     "file:size": 28498,
+     "file:checksum": "122036284706e955a909c231ca6ef32f278e307776aa226b5977f839c274c064fcc7"
+    }
+   }
+  },
+  {
+   "id": "20e029-69250_4950_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.90301400927872,
+    62.456139695327145,
+    14.95154334083203,
+    62.47860485555069
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.903086743581115,
+       62.456139695327145
+      ],
+      [
+       14.95154334083203,
+       62.45616493593043
+      ],
+      [
+       14.951506973605518,
+       62.47860485555069
+      ],
+      [
+       14.90301400927872,
+       62.47857959092837
+      ],
+      [
+       14.903086743581115,
+       62.456139695327145
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:36:22Z",
+    "datetime": "2020-06-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 22180625,
+    "proj:bbox": [
+     495000.0,
+     6925000.0,
+     497500.0,
+     6927500.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.5421051783,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-06-18T00:00:00Z",
+    "data_modified": "2021-02-16T00:00:00Z",
+    "start_datetime": "2020-06-14T00:00:00Z",
+    "skanningsomrade": "20E029"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e029/y20e029-69250_4950_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e029-69250_4950_25.copc.laz",
+     "file:size": 122118686,
+     "proj:bbox": [
+      495000.0,
+      6925000.0,
+      497500.0,
+      6927500.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "122029a9e664a77216acf7557b7c5c654289875681234b7270c3af4e46d5d6e5ee80"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e029/y20e029-69250_4950_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e029-69250_4950_25_info.json",
+     "file:size": 23712,
+     "file:checksum": "12201fb888210e6ea316f34e74610adc33a4f8d666207de2315e3f2589de08155b0a"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e029/y20e029-69250_4950_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e029-69250_4950_25_thumbnail.png",
+     "file:size": 30569,
+     "file:checksum": "1220cec326b33aabc7c298b8541fa304de26bddda1ee7e9997cc6c5b67113492df26"
+    }
+   }
+  },
+  {
+   "id": "20e029-69250_4975_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.951506973605518,
+    62.45616493593043,
+    14.999999999999982,
+    62.47861327709834
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.95154334083203,
+       62.45616493593043
+      ],
+      [
+       14.999999999999982,
+       62.45617334947172
+      ],
+      [
+       14.999999999999982,
+       62.47861327709834
+      ],
+      [
+       14.951506973605518,
+       62.47860485555069
+      ],
+      [
+       14.95154334083203,
+       62.45616493593043
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:36:22Z",
+    "datetime": "2020-06-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 23821333,
+    "proj:bbox": [
+     497500.0,
+     6925000.0,
+     500000.0,
+     6927500.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.5343865916,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-06-18T00:00:00Z",
+    "data_modified": "2021-02-16T00:00:00Z",
+    "start_datetime": "2020-06-14T00:00:00Z",
+    "skanningsomrade": "20E029"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e029/y20e029-69250_4975_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e029-69250_4975_25.copc.laz",
+     "file:size": 130117029,
+     "proj:bbox": [
+      497500.0,
+      6925000.0,
+      500000.0,
+      6927500.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "122018ee362ee633e45efafa6b9fc1916a7c1782ae7c73adfce18ed0bbb9f1d343b5"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e029/y20e029-69250_4975_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e029-69250_4975_25_info.json",
+     "file:size": 24090,
+     "file:checksum": "12202dfa25ea3c8c2a41ff08db2eabd3ac33375c16e8db5eb0a6f11db9748c6ae4d6"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e029/y20e029-69250_4975_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e029-69250_4975_25_thumbnail.png",
+     "file:size": 30376,
+     "file:checksum": "12205d1d2a5cf2df12057856b9cfd30855ebc5f6bbbc342d02bebfa8e5b9da66cf26"
+    }
+   }
+  },
+  {
+   "id": "20e029-69275_4875_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.757353965921858,
+    62.47840273943792,
+    14.806028515095864,
+    62.500918259369996
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.757536109370713,
+       62.47840273943792
+      ],
+      [
+       14.806028515095864,
+       62.4784785327483
+      ],
+      [
+       14.805882799430046,
+       62.500918259369996
+      ],
+      [
+       14.757353965921858,
+       62.50084239389554
+      ],
+      [
+       14.757536109370713,
+       62.47840273943792
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:36:22Z",
+    "datetime": "2020-06-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 19707912,
+    "proj:bbox": [
+     487500.0,
+     6927500.0,
+     490000.0,
+     6930000.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.5823139768,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-06-18T00:00:00Z",
+    "data_modified": "2021-02-16T00:00:00Z",
+    "start_datetime": "2020-06-14T00:00:00Z",
+    "skanningsomrade": "20E029"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e029/y20e029-69275_4875_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e029-69275_4875_25.copc.laz",
+     "file:size": 113431963,
+     "proj:bbox": [
+      487500.0,
+      6927500.0,
+      490000.0,
+      6930000.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "12207d6f9cdfcf969f67ac6f1cc00110c90d10b0444ea50aaa47a1a68b9043af3629"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e029/y20e029-69275_4875_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e029-69275_4875_25_info.json",
+     "file:size": 25339,
+     "file:checksum": "12200f8cfcb509b146a91f68074ae08ee2b4ada3e345ef5676e320a7f5ab26fdd93d"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e029/y20e029-69275_4875_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e029-69275_4875_25_thumbnail.png",
+     "file:size": 26448,
+     "file:checksum": "1220bce6420d5cb82f8608ca71b4477ce3621cdf57da3460b696f2ae59ecb14e68a1"
+    }
+   }
+  },
+  {
+   "id": "20e029-69275_4900_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.805882799430046,
+    62.4784785327483,
+    14.854521169086773,
+    62.50097726604295
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.806028515095864,
+       62.4784785327483
+      ],
+      [
+       14.854521169086773,
+       62.47853748329322
+      ],
+      [
+       14.854411881808474,
+       62.50097726604295
+      ],
+      [
+       14.805882799430046,
+       62.500918259369996
+      ],
+      [
+       14.806028515095864,
+       62.4784785327483
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:36:22Z",
+    "datetime": "2020-06-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 14828370,
+    "proj:bbox": [
+     490000.0,
+     6927500.0,
+     492500.0,
+     6930000.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.6614768875,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-06-18T00:00:00Z",
+    "data_modified": "2021-02-16T00:00:00Z",
+    "start_datetime": "2020-06-14T00:00:00Z",
+    "skanningsomrade": "20E029"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e029/y20e029-69275_4900_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e029-69275_4900_25.copc.laz",
+     "file:size": 83853545,
+     "proj:bbox": [
+      490000.0,
+      6927500.0,
+      492500.0,
+      6930000.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "122032d1dcfe721d21b3cbf403a3b76beb462454c4bf2b3252f2402ba38160366d2c"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e029/y20e029-69275_4900_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e029-69275_4900_25_info.json",
+     "file:size": 25378,
+     "file:checksum": "12201a9d90ba6c699dcda4961ad8a1dea722f31dc2f6c9f46153be7d4b1fbc7f219a"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e029/y20e029-69275_4900_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e029-69275_4900_25_thumbnail.png",
+     "file:size": 27198,
+     "file:checksum": "1220537e393c6847430579778c0b71999874491feb62a6989409ea1991761cab02fd"
+    }
+   }
+  },
+  {
+   "id": "20e029-69275_4925_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.854411881808474,
+    62.47853748329322,
+    14.90301400927872,
+    62.50101941376981
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.854521169086773,
+       62.47853748329322
+      ],
+      [
+       14.90301400927872,
+       62.47857959092837
+      ],
+      [
+       14.902941150841313,
+       62.50101941376981
+      ],
+      [
+       14.854411881808474,
+       62.50097726604295
+      ],
+      [
+       14.854521169086773,
+       62.47853748329322
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:36:22Z",
+    "datetime": "2020-06-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 20164565,
+    "proj:bbox": [
+     492500.0,
+     6927500.0,
+     495000.0,
+     6930000.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.6396508477,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-06-18T00:00:00Z",
+    "data_modified": "2021-02-16T00:00:00Z",
+    "start_datetime": "2020-06-14T00:00:00Z",
+    "skanningsomrade": "20E029"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e029/y20e029-69275_4925_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e029-69275_4925_25.copc.laz",
+     "file:size": 109465147,
+     "proj:bbox": [
+      492500.0,
+      6927500.0,
+      495000.0,
+      6930000.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "12205983155ee9d829152eab08ba26c106685cd9f36da0b634f16f0bd49b014359cc"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e029/y20e029-69275_4925_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e029-69275_4925_25_info.json",
+     "file:size": 23169,
+     "file:checksum": "12209bd1425c1c2dd6cc4e56cb0600ee242064749d60cd55109fb7d5ba1d25ae453c"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e029/y20e029-69275_4925_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e029-69275_4925_25_thumbnail.png",
+     "file:size": 26335,
+     "file:checksum": "12203a8a0ae30f3e6c53130188bca7859af8f37bd193228c0bf7c7ca2dfd2623070a"
+    }
+   }
+  },
+  {
+   "id": "20e029-69275_4950_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.902941150841313,
+    62.47857959092837,
+    14.951506973605518,
+    62.50104470244722
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.90301400927872,
+       62.47857959092837
+      ],
+      [
+       14.951506973605518,
+       62.47860485555069
+      ],
+      [
+       14.95147054431125,
+       62.50104470244722
+      ],
+      [
+       14.902941150841313,
+       62.50101941376981
+      ],
+      [
+       14.90301400927872,
+       62.47857959092837
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:36:22Z",
+    "datetime": "2020-06-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 16491531,
+    "proj:bbox": [
+     495000.0,
+     6927500.0,
+     497500.0,
+     6930000.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.6327150032,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-06-18T00:00:00Z",
+    "data_modified": "2021-02-16T00:00:00Z",
+    "start_datetime": "2020-06-14T00:00:00Z",
+    "skanningsomrade": "20E029"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e029/y20e029-69275_4950_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e029-69275_4950_25.copc.laz",
+     "file:size": 91749318,
+     "proj:bbox": [
+      495000.0,
+      6927500.0,
+      497500.0,
+      6930000.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "12202c3e10b663bccba5c594138a380ad0aa160131a9e40a65ebeb069dd682554bbd"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e029/y20e029-69275_4950_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e029-69275_4950_25_info.json",
+     "file:size": 23165,
+     "file:checksum": "122079475250a1658364a61a1a3448a928c3f55210c1008de4cd58cb3483302f72f9"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e029/y20e029-69275_4950_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e029-69275_4950_25_thumbnail.png",
+     "file:size": 35320,
+     "file:checksum": "1220dffe0becbaeb7019fa7bc7c47a81fdcc0e71bebcd71455e8ed08f16e097a0912"
+    }
+   }
+  },
+  {
+   "id": "20e029-69275_4975_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.95147054431125,
+    62.47860485555069,
+    14.999999999999982,
+    62.501053132013254
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.951506973605518,
+       62.47860485555069
+      ],
+      [
+       14.999999999999982,
+       62.47861327709834
+      ],
+      [
+       14.999999999999982,
+       62.501053132013254
+      ],
+      [
+       14.95147054431125,
+       62.50104470244722
+      ],
+      [
+       14.951506973605518,
+       62.47860485555069
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:36:22Z",
+    "datetime": "2020-06-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 18889246,
+    "proj:bbox": [
+     497500.0,
+     6927500.0,
+     500000.0,
+     6930000.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.5901875077,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-06-18T00:00:00Z",
+    "data_modified": "2021-02-16T00:00:00Z",
+    "start_datetime": "2020-06-14T00:00:00Z",
+    "skanningsomrade": "20E029"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e029/y20e029-69275_4975_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e029-69275_4975_25.copc.laz",
+     "file:size": 105503695,
+     "proj:bbox": [
+      497500.0,
+      6927500.0,
+      500000.0,
+      6930000.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "12205986a083a0c2ae980a477a0b43c71cf84abe0dfcf4ec0ed956440c8c208fd89a"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e029/y20e029-69275_4975_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e029-69275_4975_25_info.json",
+     "file:size": 23487,
+     "file:checksum": "12200efdb09ffcfad2661e800b55d5e9a75c2393eb5ebd10d779152026a4e662a7ed"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e029/y20e029-69275_4975_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e029-69275_4975_25_thumbnail.png",
+     "file:size": 30054,
+     "file:checksum": "1220a654ddd5f286568f8fe5474313127553f209a605212e0510abe6858d40efb647"
+    }
+   }
+  },
+  {
+   "id": "20e029-692_48",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.611769580744447,
+    62.45563488974007,
+    14.806173982495595,
+    62.500918259369996
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.806173982495595,
+       62.45603873322251
+      ],
+      [
+       14.61235192756389,
+       62.45563488974007
+      ],
+      [
+       14.611769580744447,
+       62.50051364672933
+      ],
+      [
+       14.805882799430046,
+       62.500918259369996
+      ],
+      [
+       14.806173982495595,
+       62.45603873322251
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-06-17T14:03:04Z",
+    "datetime": "2020-06-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 156397317,
+    "proj:bbox": [
+     480000.0,
+     6925000.0,
+     490000.0,
+     6930000.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.5791983121,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-06-18T00:00:00Z",
+    "data_modified": "2021-02-16T00:00:00Z",
+    "start_datetime": "2020-06-14T00:00:00Z",
+    "skanningsomrade": "20E029"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e029/m20e029-692_48.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "m20e029-692_48.copc.laz",
+     "file:size": 779199558,
+     "proj:bbox": [
+      480000.0,
+      6925000.0,
+      490000.0,
+      6930000.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "1220f563e17047a7c15aaf6c4a97dce9737f1dfbadae94f461438e55177f8cb6cfbd"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e029/m20e029-692_48_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "m20e029-692_48_info.json",
+     "file:size": 24146,
+     "file:checksum": "12205f04f7dc97f457ff094606cfe53651b2a032a4895e49bbc6e913b936c6d92182"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e029/m20e029-692_48_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "m20e029-692_48_thumbnail.png",
+     "file:size": 12173,
+     "file:checksum": "12206059da53540618541c0d9cfd1aa10487b03a7d9779b48fecf9485657ad1aec67"
+    }
+   }
+  },
+  {
+   "id": "20e029-692_49",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.805882799430046,
+    62.45603873322251,
+    14.999999999999982,
+    62.501053132013254
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.999999999999982,
+       62.45617334947172
+      ],
+      [
+       14.806173982495595,
+       62.45603873322251
+      ],
+      [
+       14.805882799430046,
+       62.500918259369996
+      ],
+      [
+       14.999999999999982,
+       62.501053132013254
+      ],
+      [
+       14.999999999999982,
+       62.45617334947172
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-06-17T14:03:04Z",
+    "datetime": "2020-06-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 159351255,
+    "proj:bbox": [
+     490000.0,
+     6925000.0,
+     500000.0,
+     6930000.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.5728501898,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-06-18T00:00:00Z",
+    "data_modified": "2021-02-16T00:00:00Z",
+    "start_datetime": "2020-06-14T00:00:00Z",
+    "skanningsomrade": "20E029"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e029/m20e029-692_49.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "m20e029-692_49.copc.laz",
+     "file:size": 802982909,
+     "proj:bbox": [
+      490000.0,
+      6925000.0,
+      500000.0,
+      6930000.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "122001e13f912696f1f5596e52155aa47cd3903110719a1e00016ae44df25e99f39f"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e029/m20e029-692_49_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "m20e029-692_49_info.json",
+     "file:size": 23299,
+     "file:checksum": "12200affc30d658ddb21d5be2194827046cdef0027df65fb6cddecf20fb9a30c6846"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e029/m20e029-692_49_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "m20e029-692_49_thumbnail.png",
+     "file:size": 14308,
+     "file:checksum": "12207c08e6dad12a9010f6b2cc37a42a3d197073af3cab5be78f86f504c7853b9acb"
+    }
+   }
+  },
+  {
+   "id": "20e029-69300_4900_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.80573683489366,
+    62.500918259369996,
+    14.854411881808474,
+    62.523416976012605
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.805882799430046,
+       62.500918259369996
+      ],
+      [
+       14.854411881808474,
+       62.50097726604295
+      ],
+      [
+       14.85430240787552,
+       62.523416976012605
+      ],
+      [
+       14.80573683489366,
+       62.523357913127235
+      ],
+      [
+       14.805882799430046,
+       62.500918259369996
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:36:23Z",
+    "datetime": "2020-06-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 17074301,
+    "proj:bbox": [
+     490000.0,
+     6930000.0,
+     492500.0,
+     6932500.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.6231934183,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-06-18T00:00:00Z",
+    "data_modified": "2021-02-16T00:00:00Z",
+    "start_datetime": "2020-06-14T00:00:00Z",
+    "skanningsomrade": "20E029"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e029/y20e029-69300_4900_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e029-69300_4900_25.copc.laz",
+     "file:size": 98062247,
+     "proj:bbox": [
+      490000.0,
+      6930000.0,
+      492500.0,
+      6932500.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "1220170107f4069290da7e2b8447073f2cdeeb0dabecbdbe016fb497793e2aae19ac"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e029/y20e029-69300_4900_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e029-69300_4900_25_info.json",
+     "file:size": 23170,
+     "file:checksum": "12203b303b18c734fcd83a012965ca77a6d4765f13b0b9db094eaf2dacc3005d1554"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e029/y20e029-69300_4900_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e029-69300_4900_25_thumbnail.png",
+     "file:size": 27293,
+     "file:checksum": "122006c5c8601128549cd866e029f345e430e9536c6875ac5a42850596ba633ebc07"
+    }
+   }
+  },
+  {
+   "id": "20e029-69300_4925_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.85430240787552,
+    62.50097726604295,
+    14.902941150841313,
+    62.52345916389143
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.854411881808474,
+       62.50097726604295
+      ],
+      [
+       14.902941150841313,
+       62.50101941376981
+      ],
+      [
+       14.902868167966645,
+       62.52345916389143
+      ],
+      [
+       14.85430240787552,
+       62.523416976012605
+      ],
+      [
+       14.854411881808474,
+       62.50097726604295
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:36:23Z",
+    "datetime": "2020-06-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 18360469,
+    "proj:bbox": [
+     492500.0,
+     6930000.0,
+     495000.0,
+     6932500.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.6068681866,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-06-18T00:00:00Z",
+    "data_modified": "2021-02-16T00:00:00Z",
+    "start_datetime": "2020-06-14T00:00:00Z",
+    "skanningsomrade": "20E029"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e029/y20e029-69300_4925_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e029-69300_4925_25.copc.laz",
+     "file:size": 102936880,
+     "proj:bbox": [
+      492500.0,
+      6930000.0,
+      495000.0,
+      6932500.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "1220dafee51daf334380d49118218049a9a8674288ecf0aee2c0ca3d4efedf15a90b"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e029/y20e029-69300_4925_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e029-69300_4925_25_info.json",
+     "file:size": 24829,
+     "file:checksum": "12209d22db2be9256e7c183256f4f5c123c999c7160f4da9913436c8fdfd9a4f4d17"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e029/y20e029-69300_4925_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e029-69300_4925_25_thumbnail.png",
+     "file:size": 26140,
+     "file:checksum": "1220e23627aeac7b30af3ae813cb891c27e6f42b21d0e8c3b06e780a28097723c3b5"
+    }
+   }
+  },
+  {
+   "id": "20e029-69300_4950_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.902868167966645,
+    62.50101941376981,
+    14.95147054431125,
+    62.523484476660116
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.902941150841313,
+       62.50101941376981
+      ],
+      [
+       14.95147054431125,
+       62.50104470244722
+      ],
+      [
+       14.951434052798106,
+       62.523484476660116
+      ],
+      [
+       14.902868167966645,
+       62.52345916389143
+      ],
+      [
+       14.902941150841313,
+       62.50101941376981
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:36:23Z",
+    "datetime": "2020-06-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 17073185,
+    "proj:bbox": [
+     495000.0,
+     6930000.0,
+     497500.0,
+     6932500.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.6237243774,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-06-18T00:00:00Z",
+    "data_modified": "2021-02-16T00:00:00Z",
+    "start_datetime": "2020-06-14T00:00:00Z",
+    "skanningsomrade": "20E029"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e029/y20e029-69300_4950_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e029-69300_4950_25.copc.laz",
+     "file:size": 97482573,
+     "proj:bbox": [
+      495000.0,
+      6930000.0,
+      497500.0,
+      6932500.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "1220490297dca3f3a4982b7e47ef57acfb7e2eb5b729bd62c99eb9ac232c7506abcf"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e029/y20e029-69300_4950_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e029-69300_4950_25_info.json",
+     "file:size": 23374,
+     "file:checksum": "1220027785663736d09b531e9c959395b74d5af01175ad60d23f553b246754ee02fc"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e029/y20e029-69300_4950_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e029-69300_4950_25_thumbnail.png",
+     "file:size": 24477,
+     "file:checksum": "1220ae897541b1f99170dfd3fdeafc3ec0435e3a85459c29ff1216934140c6648bb3"
+    }
+   }
+  },
+  {
+   "id": "20e029-69300_4975_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.951434052798106,
+    62.50104470244722,
+    14.999999999999982,
+    62.523492914256586
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.95147054431125,
+       62.50104470244722
+      ],
+      [
+       14.999999999999982,
+       62.501053132013254
+      ],
+      [
+       14.999999999999982,
+       62.523492914256586
+      ],
+      [
+       14.951434052798106,
+       62.523484476660116
+      ],
+      [
+       14.95147054431125,
+       62.50104470244722
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:36:23Z",
+    "datetime": "2020-06-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 18641971,
+    "proj:bbox": [
+     497500.0,
+     6930000.0,
+     500000.0,
+     6932500.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.6728207951,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-06-18T00:00:00Z",
+    "data_modified": "2021-02-16T00:00:00Z",
+    "start_datetime": "2020-06-14T00:00:00Z",
+    "skanningsomrade": "20E029"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e029/y20e029-69300_4975_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e029-69300_4975_25.copc.laz",
+     "file:size": 98977498,
+     "proj:bbox": [
+      497500.0,
+      6930000.0,
+      500000.0,
+      6932500.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "122004e9ac2cdb67141294337cbb0861984b89f1aade75014e514cb98447b74613ab"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e029/y20e029-69300_4975_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e029-69300_4975_25_info.json",
+     "file:size": 23270,
+     "file:checksum": "1220aa41f863403195ee4b7732d1cdf69d9b4cdad2e59f7b404c311091e461c3e04a"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e029/y20e029-69300_4975_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e029-69300_4975_25_thumbnail.png",
+     "file:size": 25361,
+     "file:checksum": "12203d60cae1a06a97e50c042a41377c93f3cccd881509c94ca311c6499c2d44e18b"
+    }
+   }
+  },
+  {
+   "id": "20e029-693_49",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.805297441986522,
+    62.500918259369996,
+    14.999999999999982,
+    62.590811825359374
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.805444156781338,
+       62.56823700220738
+      ],
+      [
+       14.805297441986522,
+       62.59067643760984
+      ],
+      [
+       14.999999999999982,
+       62.590811825359374
+      ],
+      [
+       14.999999999999982,
+       62.501053132013254
+      ],
+      [
+       14.805882799430046,
+       62.500918259369996
+      ],
+      [
+       14.805444156781338,
+       62.56823700220738
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-06-17T14:03:04Z",
+    "datetime": "2020-06-16T00:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 287437954,
+    "proj:bbox": [
+     490000.0,
+     6930000.0,
+     500000.0,
+     6940000.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.6097106993,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-06-18T00:00:00Z",
+    "data_modified": "2021-02-16T00:00:00Z",
+    "start_datetime": "2020-06-14T00:00:00Z",
+    "skanningsomrade": "20E029"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e029/m20e029-693_49.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "m20e029-693_49.copc.laz",
+     "file:size": 1489307294,
+     "proj:bbox": [
+      490000.0,
+      6930000.0,
+      500000.0,
+      6940000.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "1220220cc1c541466a20da16a93ad300fd6f831ca733f67b1e438d62372b3af919cc"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e029/m20e029-693_49_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "m20e029-693_49_info.json",
+     "file:size": 23110,
+     "file:checksum": "12205788b163f9362b8554c83ba6e4c96eb985f05b3ca63c0738fc7058fa9e73724e"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e029/m20e029-693_49_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "m20e029-693_49_thumbnail.png",
+     "file:size": 24812,
+     "file:checksum": "1220798c012b8c6db193fae6672e6b976f7e59a3f4f0357abfe8c12ef373f65da70f"
+    }
+   }
+  },
+  {
+   "id": "20e030-69250_5000_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.999999999999982,
+    62.45616493593043,
+    15.048493026394448,
+    62.47861327709834
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.999999999999982,
+       62.45617334947172
+      ],
+      [
+       15.048456659167936,
+       62.45616493593043
+      ],
+      [
+       15.048493026394448,
+       62.47860485555069
+      ],
+      [
+       14.999999999999982,
+       62.47861327709834
+      ],
+      [
+       14.999999999999982,
+       62.45617334947172
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:36:32Z",
+    "datetime": "2020-07-25T12:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 24734140,
+    "proj:bbox": [
+     500000.0,
+     6925000.0,
+     502500.0,
+     6927500.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.5109025152,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-09-01T00:00:00Z",
+    "data_modified": "2021-03-18T00:00:00Z",
+    "start_datetime": "2020-06-18T00:00:00Z",
+    "skanningsomrade": "20E030"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e030/y20e030-69250_5000_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e030-69250_5000_25.copc.laz",
+     "file:size": 139028333,
+     "proj:bbox": [
+      500000.0,
+      6925000.0,
+      502500.0,
+      6927500.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "1220ff41929f8c413bb33ea8ad6cdffab59d9b34d0b079c87e8c302fa448a22c199f"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e030/y20e030-69250_5000_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e030-69250_5000_25_info.json",
+     "file:size": 23121,
+     "file:checksum": "12207de9f45a5a0516a5db5033ec71e18b37173573e16e8b40346a94eb8a525f792f"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e030/y20e030-69250_5000_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e030-69250_5000_25_thumbnail.png",
+     "file:size": 24378,
+     "file:checksum": "12209c8e8e34e305031519989731da3f0b8403238720e103fb8a8d86c88df0a4da68"
+    }
+   }
+  },
+  {
+   "id": "20e030-69250_5025_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    15.048456659167936,
+    62.456139695327145,
+    15.096985990721246,
+    62.47860485555069
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       15.048456659167936,
+       62.45616493593043
+      ],
+      [
+       15.09691325641885,
+       62.456139695327145
+      ],
+      [
+       15.096985990721246,
+       62.47857959092837
+      ],
+      [
+       15.048493026394448,
+       62.47860485555069
+      ],
+      [
+       15.048456659167936,
+       62.45616493593043
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:36:32Z",
+    "datetime": "2020-07-25T12:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 25139645,
+    "proj:bbox": [
+     502500.0,
+     6925000.0,
+     505000.0,
+     6927500.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.5450360702,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-09-01T00:00:00Z",
+    "data_modified": "2021-03-18T00:00:00Z",
+    "start_datetime": "2020-06-18T00:00:00Z",
+    "skanningsomrade": "20E030"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e030/y20e030-69250_5025_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e030-69250_5025_25.copc.laz",
+     "file:size": 147379452,
+     "proj:bbox": [
+      502500.0,
+      6925000.0,
+      505000.0,
+      6927500.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "12200bc6b55a1afaf0ee038022d9f109fda3926c6f056767c421d7e50f7b3c593e94"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e030/y20e030-69250_5025_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e030-69250_5025_25_info.json",
+     "file:size": 23267,
+     "file:checksum": "12204aef35f275ee934b7cf2d02f066bbb81fd6b69eacfad9234fff2cabe69d57b76"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e030/y20e030-69250_5025_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e030-69250_5025_25_thumbnail.png",
+     "file:size": 25889,
+     "file:checksum": "1220a88fdd4546533093d68d874343e447ffd98271f77afd4b9a7d8f940e4af2db63"
+    }
+   }
+  },
+  {
+   "id": "20e030-69275_5000_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.999999999999982,
+    62.47860485555069,
+    15.048529455688714,
+    62.501053132013254
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.999999999999982,
+       62.47861327709834
+      ],
+      [
+       15.048493026394448,
+       62.47860485555069
+      ],
+      [
+       15.048529455688714,
+       62.50104470244722
+      ],
+      [
+       14.999999999999982,
+       62.501053132013254
+      ],
+      [
+       14.999999999999982,
+       62.47861327709834
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:36:33Z",
+    "datetime": "2020-07-25T12:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 19900169,
+    "proj:bbox": [
+     500000.0,
+     6927500.0,
+     502500.0,
+     6930000.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.5648352573,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-09-01T00:00:00Z",
+    "data_modified": "2021-03-18T00:00:00Z",
+    "start_datetime": "2020-06-18T00:00:00Z",
+    "skanningsomrade": "20E030"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e030/y20e030-69275_5000_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e030-69275_5000_25.copc.laz",
+     "file:size": 104569025,
+     "proj:bbox": [
+      500000.0,
+      6927500.0,
+      502500.0,
+      6930000.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "1220c9ede6e40c92ef3d4addb076fc21710e97870c634812bb34152dd95683e24a23"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e030/y20e030-69275_5000_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e030-69275_5000_25_info.json",
+     "file:size": 24362,
+     "file:checksum": "1220ab923d5132395a299b702a8525423d46cf64b15af0bf1d790937c060b2fd4ea0"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e030/y20e030-69275_5000_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e030-69275_5000_25_thumbnail.png",
+     "file:size": 23356,
+     "file:checksum": "1220d31f09cf0b21ad6066effd184767907dbeaa1ac83a9228f44d4dc1ae920fffa0"
+    }
+   }
+  },
+  {
+   "id": "20e030-69275_5025_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    15.048493026394448,
+    62.47857959092837,
+    15.097058849158653,
+    62.50104470244722
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       15.048493026394448,
+       62.47860485555069
+      ],
+      [
+       15.096985990721246,
+       62.47857959092837
+      ],
+      [
+       15.097058849158653,
+       62.50101941376981
+      ],
+      [
+       15.048529455688714,
+       62.50104470244722
+      ],
+      [
+       15.048493026394448,
+       62.47860485555069
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:36:33Z",
+    "datetime": "2020-07-25T12:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 17293365,
+    "proj:bbox": [
+     502500.0,
+     6927500.0,
+     505000.0,
+     6930000.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.6205684071,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-09-01T00:00:00Z",
+    "data_modified": "2021-03-18T00:00:00Z",
+    "start_datetime": "2020-06-18T00:00:00Z",
+    "skanningsomrade": "20E030"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e030/y20e030-69275_5025_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e030-69275_5025_25.copc.laz",
+     "file:size": 95053330,
+     "proj:bbox": [
+      502500.0,
+      6927500.0,
+      505000.0,
+      6930000.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "12209d9e620191694038003d56ed8901dfe387b8da7bf811e2ad0085aff1445b4d85"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e030/y20e030-69275_5025_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e030-69275_5025_25_info.json",
+     "file:size": 23178,
+     "file:checksum": "122023591c6120e13dc4a14266c19728872eafcf9b47de5f3051e4b5ef9d29af1901"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e030/y20e030-69275_5025_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e030-69275_5025_25_thumbnail.png",
+     "file:size": 25662,
+     "file:checksum": "12205976103c35b20d256e211a5a69b353d37c8793b9445193e45737489d7f71633b"
+    }
+   }
+  },
+  {
+   "id": "20e030-692_50",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.999999999999982,
+    62.45603873322251,
+    15.19411720056992,
+    62.501053132013254
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       15.193826017504371,
+       62.45603873322251
+      ],
+      [
+       14.999999999999982,
+       62.45617334947172
+      ],
+      [
+       14.999999999999982,
+       62.501053132013254
+      ],
+      [
+       15.19411720056992,
+       62.500918259369996
+      ],
+      [
+       15.193826017504371,
+       62.45603873322251
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-06-17T14:03:05Z",
+    "datetime": "2020-07-25T12:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 169210050,
+    "proj:bbox": [
+     500000.0,
+     6925000.0,
+     510000.0,
+     6930000.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.5628037197,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-09-01T00:00:00Z",
+    "data_modified": "2021-03-18T00:00:00Z",
+    "start_datetime": "2020-06-18T00:00:00Z",
+    "skanningsomrade": "20E030"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e030/m20e030-692_50.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "m20e030-692_50.copc.laz",
+     "file:size": 879066039,
+     "proj:bbox": [
+      500000.0,
+      6925000.0,
+      510000.0,
+      6930000.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "1220b91c618a38230ca6e57517158afab01d2ac13ed16d02bbc9fb54102aba3c0a70"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e030/m20e030-692_50_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "m20e030-692_50_info.json",
+     "file:size": 23679,
+     "file:checksum": "1220708529618c1ddd6d54fb1f8c3b467fcbae48303969dbf7e1443a0dbb71fa9ce3"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e030/m20e030-692_50_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "m20e030-692_50_thumbnail.png",
+     "file:size": 12182,
+     "file:checksum": "12202a858892e1c08c7793d7f9e7629c915325ee269d288a019827f1de87d395d67f"
+    }
+   }
+  },
+  {
+   "id": "20e030-69300_5000_25",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.999999999999982,
+    62.50104470244722,
+    15.04856594720186,
+    62.523492914256586
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.999999999999982,
+       62.501053132013254
+      ],
+      [
+       15.048529455688714,
+       62.50104470244722
+      ],
+      [
+       15.04856594720186,
+       62.523484476660116
+      ],
+      [
+       14.999999999999982,
+       62.523492914256586
+      ],
+      [
+       14.999999999999982,
+       62.501053132013254
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-10-14T11:36:33Z",
+    "datetime": "2020-07-25T12:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 18566668,
+    "proj:bbox": [
+     500000.0,
+     6930000.0,
+     502500.0,
+     6932500.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.5997069071,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-09-01T00:00:00Z",
+    "data_modified": "2021-03-18T00:00:00Z",
+    "start_datetime": "2020-06-18T00:00:00Z",
+    "skanningsomrade": "20E030"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e030/y20e030-69300_5000_25.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "y20e030-69300_5000_25.copc.laz",
+     "file:size": 95055447,
+     "proj:bbox": [
+      500000.0,
+      6930000.0,
+      502500.0,
+      6932500.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "1220afb2208e4f76cfe4701b618ac5728b76cdeeab2b9e9cc76c50870f9874c178ed"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e030/y20e030-69300_5000_25_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "y20e030-69300_5000_25_info.json",
+     "file:size": 24044,
+     "file:checksum": "122016a3c587e863d62466545a4a2ae434067bcce10c7b0061223641d7a2f960848c"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e030/y20e030-69300_5000_25_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "y20e030-69300_5000_25_thumbnail.png",
+     "file:size": 25703,
+     "file:checksum": "122084a3f53d086ac9bd1da900483cff156ba582acfeb6573a6f0c13d3d580c8ffc5"
+    }
+   }
+  },
+  {
+   "id": "20e030-693_50",
+   "type": "Feature",
+   "collection": "dsm-skoglig-copc",
+   "bbox": [
+    14.999999999999982,
+    62.500918259369996,
+    15.194702558013445,
+    62.590811825359374
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.999999999999982,
+       62.56837226088939
+      ],
+      [
+       14.999999999999982,
+       62.590811825359374
+      ],
+      [
+       15.194702558013445,
+       62.59067643760984
+      ],
+      [
+       15.19411720056992,
+       62.500918259369996
+      ],
+      [
+       14.999999999999982,
+       62.501053132013254
+      ],
+      [
+       14.999999999999982,
+       62.56837226088939
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "pc:type": "other",
+    "updated": "2026-06-17T14:03:05Z",
+    "datetime": "2020-07-25T12:00:00Z",
+    "flyghojd": 3000,
+    "pc:count": 277398363,
+    "proj:bbox": [
+     500000.0,
+     6930000.0,
+     510000.0,
+     6940000.0
+    ],
+    "proj:code": "EPSG:5845",
+    "pc:density": 0.61115692,
+    "pc:encoding": "application/vnd.laszip+copc",
+    "punkttathet": 1.2,
+    "end_datetime": "2020-09-01T00:00:00Z",
+    "data_modified": "2021-03-18T00:00:00Z",
+    "start_datetime": "2020-06-18T00:00:00Z",
+    "skanningsomrade": "20E030"
+   },
+   "assets": {
+    "data": {
+     "href": "https://dl1.lantmateriet.se/hojd/data/pointcloud/sls/20e030/m20e030-693_50.copc.laz",
+     "type": "application/vnd.laszip+copc",
+     "roles": [
+      "data"
+     ],
+     "title": "m20e030-693_50.copc.laz",
+     "file:size": 1427908197,
+     "proj:bbox": [
+      500000.0,
+      6930000.0,
+      510000.0,
+      6940000.0
+     ],
+     "proj:code": "EPSG:5845",
+     "file:checksum": "1220d911412a8c3fd2906c54fc35f5884caf2b0573b534cd6f08c34de3babbb53d5f"
+    },
+    "info": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e030/m20e030-693_50_info.json",
+     "type": "application/json",
+     "roles": [
+      "metadata"
+     ],
+     "title": "m20e030-693_50_info.json",
+     "file:size": 23572,
+     "file:checksum": "1220786e58cd3ccdbc9b52883c511f79a19b53aca44fb11042352607e08b7d998e09"
+    },
+    "thumbnail": {
+     "href": "https://dl1.lantmateriet.se/hojd/pub/pointcloud/sls/20e030/m20e030-693_50_thumbnail.png",
+     "type": "image/png",
+     "roles": [
+      "thumbnail",
+      "overview"
+     ],
+     "title": "m20e030-693_50_thumbnail.png",
+     "file:size": 23404,
+     "file:checksum": "12200a451287cbbdf102cfb65e420fbb641d482e37301cc93fe8bb67c90969143b1b"
+    }
+   }
+  }
+ ]
+}

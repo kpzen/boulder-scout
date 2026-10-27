@@ -1,0 +1,29 @@
+# Python
+.venv/
+__pycache__/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# Web
+web/node_modules/
+web/dist/
+web/test-results/
+web/playwright-report/
+web/.env.local
+
+# Data: raw inputs and generated outputs are never committed
+data/
+*.laz
+*.las
+
+# Review scratch
+.review.diff
+
+# Claude workflow files and the design docs stay on the author's machine
+CLAUDE.md
+.claude/
+docs/
+
+# Exception: the one committed real-data fixture
+!tests/fixtures/*.laz

@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Boulder Scout</title>
+    <style>
+      :root {
+        --ink: #1f2933; --muted: #616e7c; --line: #d9dee3; --panel: #fffffff2;
+        --accent: #2f6f4f; --accent-ink: #fff; --bar: #1f2a24;
+        font: 13px/1.4 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; color: var(--ink);
+      }
+      html, body { height: 100%; margin: 0; }
+      body { display: flex; flex-direction: column; background: var(--bar); }
+      /* A bar above and below the map, none at the sides. */
+      #topbar {
+        display: flex; align-items: center; gap: 12px; padding: 0 16px; height: 48px;
+        background: var(--bar); color: #f4f7f5; flex: none;
+      }
+      #topbar h1 { margin: 0; font-size: 17px; font-weight: 600; letter-spacing: 0.2px; }
+      #topbar .spacer { flex: 1; }
+      #topbar .hint { color: #c9d3cd; font-size: 12px; }
+      #bottombar { height: 8px; background: var(--bar); flex: none; }
+      #main { position: relative; flex: 1; min-height: 0; }
+      #app { position: absolute; inset: 0; }
+      button {
+        font: inherit; color: var(--ink); background: #fff; border: 1px solid var(--line);
+        border-radius: 6px; padding: 4px 10px; cursor: pointer;
+      }
+      button:hover { background: #f1f4f6; }
+      button.on, button.primary { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+      button.on:hover, button.primary:hover { background: #255a40; }
+      button:disabled { opacity: 0.5; cursor: default; }
+      input[type="range"] { accent-color: var(--accent); }
+      #filters, #basemaps, #info, #photos {
+        background: var(--panel); border-radius: 8px; box-shadow: 0 1px 4px #0003;
+      }
+      #filters { position: absolute; top: 10px; left: 10px; z-index: 1; padding: 10px 12px; }
+      #filters label { display: block; margin-top: 6px; color: var(--muted); }
+      #filters output { color: var(--ink); font-variant-numeric: tabular-nums; }
+      #filters input { display: block; width: 180px; }
+      #basemaps { position: absolute; bottom: 10px; left: 10px; z-index: 1; padding: 8px 12px; }
+      #basemaps label { margin-right: 6px; }
+      #info {
+        position: absolute; top: 10px; right: 10px; z-index: 3; padding: 10px 12px; max-width: 300px;
+        overflow-wrap: anywhere;
+      }
+      #info[hidden] { display: none; }
+      #info > b { display: block; font-size: 12px; color: var(--muted); font-weight: 500; }
+      #info table { margin: 6px 0 8px; }
+      #info th { text-align: left; font-weight: normal; color: var(--muted); padding-right: 12px; }
+      #info td { text-align: right; font-variant-numeric: tabular-nums; }
+      #info .buttons { display: flex; flex-wrap: wrap; gap: 6px; }
+      #review { margin-top: 8px; border-top: 1px solid var(--line); padding-top: 6px; }
+      #review table { border-collapse: collapse; margin-bottom: 6px; }
+      #review td, #review th { padding: 1px 8px 1px 0; text-align: left; }
+      #review tr[data-band] { cursor: pointer; }
+      #review tr.on { background: #00e5ff55; }
+      #review .step { margin-top: 6px; }
+      #photos { position: absolute; top: 10px; right: 330px; z-index: 3; padding: 8px 10px; }
+      #photos[hidden] { display: none; }
+      #photos figure { margin: 0 0 6px; }
+      #photos figcaption { color: var(--muted); max-width: 250px; }
+      #photos .photo { position: relative; width: 250px; height: 250px; background: #ddd; border-radius: 4px; overflow: hidden; }
+      #photos img { display: block; }
+      /* Centre ticks at the edges only, so nothing covers the candidate. */
+      #photos .photo::after {
+        content: ""; position: absolute; inset: 0; pointer-events: none;
+        background:
+          linear-gradient(#ff0, #ff0) top / 2px 14px no-repeat,
+          linear-gradient(#ff0, #ff0) bottom / 2px 14px no-repeat,
+          linear-gradient(#ff0, #ff0) left / 14px 2px no-repeat,
+          linear-gradient(#ff0, #ff0) right / 14px 2px no-repeat;
+      }
+      #review-panel { margin-top: 8px; border-top: 1px solid var(--line); padding-top: 6px; }
+      #review-panel label { display: block; }
+      #review-panel .tags { margin: 4px 0 4px 16px; }
+      #info textarea { width: 100%; box-sizing: border-box; }
+      /* A panel beside the map, resizable from its corner, so the map stays clickable; the info
+         and photo panels stay above it on a narrow screen. */
+      #view3d {
+        position: absolute; top: 10px; left: 250px; width: 480px; height: 400px; z-index: 2;
+        min-width: 240px; min-height: 200px; background: #f4f4f0; border-radius: 8px;
+        box-shadow: 0 1px 6px #0006; resize: both; overflow: hidden;
+      }
+      #view3d[hidden] { display: none; }
+      #view3d header {
+        position: absolute; top: 6px; left: 8px; right: 8px; display: flex; gap: 8px;
+        align-items: start; font-size: 12px;
+      }
+    </style>
+  </head>
+  <body>
+    <header id="topbar">
+      <h1>Boulder Scout</h1>
+      <span class="spacer"></span>
+      <span class="hint" id="exporthint"></span>
+      <button id="export" class="primary" title="Downloads a KML file of the saved boulders; import it in Google My Maps (mymaps.google.com)">Export as KML</button>
+    </header>
+    <div id="main">
+      <div id="app"></div>
+      <div id="filters"><b id="count"></b></div>
+      <div id="basemaps">
+        <label><input type="radio" name="basemap" value="imagery" checked> Imagery</label>
+        <label><input type="radio" name="basemap" value="osm"> Map</label>
+      </div>
+      <div id="info" hidden></div>
+      <div id="view3d" hidden>
+        <header><button id="close3d">Close</button><span id="caption3d"></span></header>
+      </div>
+    </div>
+    <div id="bottombar"></div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
